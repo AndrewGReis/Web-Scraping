@@ -87,10 +87,10 @@ total_time = time.time() - global_start
 print(f"\nScraping concluído! Verifique os arquivos:")
 print(f"- Log completo: scraping.log")
 print(f"- Dados extraídos: livros.csv")
-logging.info(f"\n📊 RELATORIO DETALHADO:\n"
+logging.info(f"\nRELATORIO DETALHADO:\n"
              f"TOTAL: {total_time:.2f} segundos\n"
              f"DOWNLOAD: {etapas.get('DOWNLOAD', 0):.2f}s\n"
              f"PARSING: {etapas.get('PARSING', 0):.2f}s\n"
              f"EXTRACAO: {etapas.get('EXTRACAO', 0):.2f}s\n"
              f"SALVAMENTO: {etapas.get('SALVAMENTO CSV', 0):.2f}s\n"
-             f"✅ Concluido!")
+             f"Concluido!")
