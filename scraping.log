@@ -1,0 +1,37 @@
+30/04/2025 12:45:57 - root - INFO - 26 - Iniciando o script de scraping...
+30/04/2025 12:45:57 - root - INFO - 30 - Acessando a pagina: https://books.toscrape.com/
+30/04/2025 12:45:58 - root - INFO - 37 - Pagina acessada com sucesso!
+30/04/2025 12:45:58 - root - INFO - 23 - ETAPA 'DOWNLOAD' concluida em 0.77 segundos
+30/04/2025 12:45:58 - root - INFO - 23 - ETAPA 'PARSING' concluida em 0.04 segundos
+30/04/2025 12:45:58 - root - INFO - 48 - 20 livros encontrados na pagina.
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: A Light in the Attic | Preco: £51.77 | Avaliacao: Three
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Tipping the Velvet | Preco: £53.74 | Avaliacao: One
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Soumission | Preco: £50.10 | Avaliacao: One
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Sharp Objects | Preco: £47.82 | Avaliacao: Four
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Sapiens: A Brief History of Humankind | Preco: £54.23 | Avaliacao: Five
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: The Requiem Red | Preco: £22.65 | Avaliacao: One
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: The Dirty Little Secrets of Getting Your Dream Job | Preco: £33.34 | Avaliacao: Four
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull | Preco: £17.93 | Avaliacao: Three
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics | Preco: £22.60 | Avaliacao: Four
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: The Black Maria | Preco: £52.15 | Avaliacao: One
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Starving Hearts (Triangular Trade Trilogy, #1) | Preco: £13.99 | Avaliacao: Two
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Shakespeare's Sonnets | Preco: £20.66 | Avaliacao: Four
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Set Me Free | Preco: £17.46 | Avaliacao: Five
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) | Preco: £52.29 | Avaliacao: Five
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Rip it Up and Start Again | Preco: £35.02 | Avaliacao: Five
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 | Preco: £57.25 | Avaliacao: Three
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Olio | Preco: £23.88 | Avaliacao: One
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Mesaerion: The Best Science Fiction Stories 1800-1849 | Preco: £37.59 | Avaliacao: One
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: Libertarianism for Beginners | Preco: £51.33 | Avaliacao: Two
+30/04/2025 12:45:58 - root - INFO - 58 - Livro coletado: It's Only the Himalayas | Preco: £45.17 | Avaliacao: Two
+30/04/2025 12:45:58 - root - INFO - 23 - ETAPA 'EXTRACAO' concluida em 0.01 segundos
+30/04/2025 12:45:58 - root - INFO - 78 - Dados salvos em 'livros.csv'!
+30/04/2025 12:45:58 - root - INFO - 23 - ETAPA 'SALVAMENTO CSV' concluida em 0.01 segundos
+30/04/2025 12:45:58 - root - INFO - 90 - 
+\U0001f4ca RELATORIO DETALHADO:
+TOTAL: 0.83 segundos
+DOWNLOAD: 0.77s
+PARSING: 0.04s
+EXTRACAO: 0.01s
+SALVAMENTO: 0.01s
+\u2705 Concluido!
