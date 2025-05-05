@@ -189,11 +189,9 @@ def save_to_csv(books, filename='livros.csv'):
 
 def main():
     try:
-        # Dicionário para armazenar os tempos
         etapas_tempo = {}
         global_start = time.time()
         
-        # ETAPA 1: DOWNLOAD
         stage_start = time.time()
         logging.info("Iniciando processo de scraping...")
         categorias = get_categories("https://books.toscrape.com/catalogue/category/books_1/index.html")
@@ -201,7 +199,6 @@ def main():
             raise ValueError("Nenhuma categoria encontrada!")
         etapas_tempo['DOWNLOAD'] = time.time() - stage_start
         
-        # ETAPA 2: PARSING/COLETA
         stage_start = time.time()
         logging.info(f"Encontradas {len(categorias)} categorias para processar")
         all_books = []
@@ -239,7 +236,6 @@ def main():
                 raise ValueError("Nenhum livro foi coletado!")
             return
         
-        # ETAPA 3: SALVAMENTO
         stage_start = time.time()
         if save_to_csv(all_books):
             report = generate_category_report(all_books)
@@ -251,7 +247,6 @@ def main():
             
             etapas_tempo['SALVAMENTO'] = time.time() - stage_start
             
-            # Gera e exibe o relatório de tempo
             time_report = log_execution_time(etapas_tempo)
             print(time_report)
             logging.info(time_report)
