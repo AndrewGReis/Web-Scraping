@@ -1,0 +1,53 @@
+
+=== RELATORIO POR CATEGORIA ===
+- Nonfiction               : 100 livros
+- Default                  : 100 livros
+- Sequential Art           : 75 livros
+- Add a comment            : 67 livros
+- Fiction                  : 65 livros
+- Young Adult              : 54 livros
+- Fantasy                  : 48 livros
+- Romance                  : 35 livros
+- Mystery                  : 32 livros
+- Food and Drink           : 30 livros
+- Childrens                : 29 livros
+- Historical Fiction       : 26 livros
+- Classics                 : 19 livros
+- Poetry                   : 19 livros
+- History                  : 18 livros
+- Womens Fiction           : 17 livros
+- Horror                   : 17 livros
+- Science Fiction          : 16 livros
+- Science                  : 14 livros
+- Music                    : 13 livros
+- Business                 : 12 livros
+- Travel                   : 11 livros
+- Philosophy               : 11 livros
+- Thriller                 : 11 livros
+- Humor                    : 10 livros
+- Autobiography            : 9 livros
+- Art                      : 8 livros
+- Religion                 : 7 livros
+- Psychology               : 7 livros
+- New Adult                : 6 livros
+- Christian Fiction        : 6 livros
+- Spirituality             : 6 livros
+- Sports and Games         : 5 livros
+- Biography                : 5 livros
+- Self Help                : 5 livros
+- Health                   : 4 livros
+- Contemporary             : 3 livros
+- Christian                : 3 livros
+- Politics                 : 3 livros
+- Historical               : 2 livros
+- Paranormal               : 1 livros
+- Parenting                : 1 livros
+- Adult Fiction            : 1 livros
+- Academic                 : 1 livros
+- Suspense                 : 1 livros
+- Short Stories            : 1 livros
+- Novels                   : 1 livros
+- Cultural                 : 1 livros
+- Erotica                  : 1 livros
+- Crime                    : 1 livros
+===============================

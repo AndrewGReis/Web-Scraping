@@ -109,3 +109,1196 @@ PARSING: 0.04s
 EXTRACAO: 0.01s
 SALVAMENTO: 0.01s
 Concluido!
+05/05/2025 09:59:13 - root - INFO - 46 - Encontradas 50 categorias:
+05/05/2025 09:59:13 - root - INFO - 64 - Iniciando o script de scraping...
+05/05/2025 09:59:13 - root - INFO - 68 - Acessando a pagina: https://books.toscrape.com/
+05/05/2025 09:59:14 - root - INFO - 75 - Pagina acessada com sucesso!
+05/05/2025 09:59:14 - root - INFO - 61 - ETAPA 'DOWNLOAD' concluida em 0.75 segundos
+05/05/2025 09:59:14 - root - INFO - 61 - ETAPA 'PARSING' concluida em 0.11 segundos
+05/05/2025 09:59:14 - root - INFO - 86 - 20 livros encontrados na pagina.
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: A Light in the Attic | Preco: Â£51.77 | Avaliacao: Three
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Tipping the Velvet | Preco: Â£53.74 | Avaliacao: One
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Soumission | Preco: Â£50.10 | Avaliacao: One
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Sharp Objects | Preco: Â£47.82 | Avaliacao: Four
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Sapiens: A Brief History of Humankind | Preco: Â£54.23 | Avaliacao: Five
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: The Requiem Red | Preco: Â£22.65 | Avaliacao: One
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: The Dirty Little Secrets of Getting Your Dream Job | Preco: Â£33.34 | Avaliacao: Four
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull | Preco: Â£17.93 | Avaliacao: Three
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics | Preco: Â£22.60 | Avaliacao: Four
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: The Black Maria | Preco: Â£52.15 | Avaliacao: One
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Starving Hearts (Triangular Trade Trilogy, #1) | Preco: Â£13.99 | Avaliacao: Two
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Shakespeare's Sonnets | Preco: Â£20.66 | Avaliacao: Four
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Set Me Free | Preco: Â£17.46 | Avaliacao: Five
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) | Preco: Â£52.29 | Avaliacao: Five
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Rip it Up and Start Again | Preco: Â£35.02 | Avaliacao: Five
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 | Preco: Â£57.25 | Avaliacao: Three
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Olio | Preco: Â£23.88 | Avaliacao: One
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Mesaerion: The Best Science Fiction Stories 1800-1849 | Preco: Â£37.59 | Avaliacao: One
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: Libertarianism for Beginners | Preco: Â£51.33 | Avaliacao: Two
+05/05/2025 09:59:14 - root - INFO - 96 - Livro coletado: It's Only the Himalayas | Preco: Â£45.17 | Avaliacao: Two
+05/05/2025 09:59:14 - root - INFO - 61 - ETAPA 'EXTRACAO' concluida em 0.05 segundos
+05/05/2025 09:59:14 - root - INFO - 116 - Dados salvos em 'livros.csv'!
+05/05/2025 09:59:14 - root - INFO - 61 - ETAPA 'SALVAMENTO CSV' concluida em 0.03 segundos
+05/05/2025 09:59:14 - root - INFO - 128 - 
+RELATORIO DETALHADO:
+TOTAL: 0.93 segundos
+DOWNLOAD: 0.75s
+PARSING: 0.11s
+EXTRACAO: 0.05s
+SALVAMENTO: 0.03s
+Concluido!
+05/05/2025 10:34:47 - INFO - Iniciando o script de scraping...
+05/05/2025 10:34:48 - INFO - Encontradas 50 categorias. Iniciando coleta...
+05/05/2025 10:34:48 - INFO - Acessando página 1 da categoria 'Travel': https://books.toscrape.com/catalogue/category/books_1/../books/travel_2/index.html
+05/05/2025 10:34:49 - INFO - Categoria 'Travel': 11 livros coletados.
+05/05/2025 10:34:49 - INFO - Acessando página 1 da categoria 'Mystery': https://books.toscrape.com/catalogue/category/books_1/../books/mystery_3/index.html
+05/05/2025 10:34:49 - INFO - Acessando página 2 da categoria 'Mystery': https://books.toscrape.com/catalogue/category/books_1/../books/mystery_3/page-2.html
+05/05/2025 10:34:50 - INFO - Categoria 'Mystery': 32 livros coletados.
+05/05/2025 10:34:50 - INFO - Acessando página 1 da categoria 'Historical Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/historical-fiction_4/index.html
+05/05/2025 10:34:51 - INFO - Acessando página 2 da categoria 'Historical Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/historical-fiction_4/page-2.html
+05/05/2025 10:34:51 - INFO - Categoria 'Historical Fiction': 26 livros coletados.
+05/05/2025 10:34:51 - INFO - Acessando página 1 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/index.html
+05/05/2025 10:34:52 - INFO - Acessando página 2 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/page-2.html
+05/05/2025 10:34:53 - INFO - Acessando página 3 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/page-3.html
+05/05/2025 10:34:54 - INFO - Acessando página 4 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/page-4.html
+05/05/2025 10:34:55 - INFO - Categoria 'Sequential Art': 75 livros coletados.
+05/05/2025 10:34:55 - INFO - Acessando página 1 da categoria 'Classics': https://books.toscrape.com/catalogue/category/books_1/../books/classics_6/index.html
+05/05/2025 10:34:56 - INFO - Categoria 'Classics': 19 livros coletados.
+05/05/2025 10:34:56 - INFO - Acessando página 1 da categoria 'Philosophy': https://books.toscrape.com/catalogue/category/books_1/../books/philosophy_7/index.html
+05/05/2025 10:34:56 - INFO - Categoria 'Philosophy': 11 livros coletados.
+05/05/2025 10:34:56 - INFO - Acessando página 1 da categoria 'Romance': https://books.toscrape.com/catalogue/category/books_1/../books/romance_8/index.html
+05/05/2025 10:34:57 - INFO - Acessando página 2 da categoria 'Romance': https://books.toscrape.com/catalogue/category/books_1/../books/romance_8/page-2.html
+05/05/2025 10:34:58 - INFO - Categoria 'Romance': 35 livros coletados.
+05/05/2025 10:34:58 - INFO - Acessando página 1 da categoria 'Womens Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/womens-fiction_9/index.html
+05/05/2025 10:34:59 - INFO - Categoria 'Womens Fiction': 17 livros coletados.
+05/05/2025 10:34:59 - INFO - Acessando página 1 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/index.html
+05/05/2025 10:34:59 - INFO - Acessando página 2 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/page-2.html
+05/05/2025 10:35:00 - INFO - Acessando página 3 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/page-3.html
+05/05/2025 10:35:01 - INFO - Acessando página 4 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/page-4.html
+05/05/2025 10:35:02 - INFO - Categoria 'Fiction': 65 livros coletados.
+05/05/2025 10:35:02 - INFO - Acessando página 1 da categoria 'Childrens': https://books.toscrape.com/catalogue/category/books_1/../books/childrens_11/index.html
+05/05/2025 10:35:03 - INFO - Acessando página 2 da categoria 'Childrens': https://books.toscrape.com/catalogue/category/books_1/../books/childrens_11/page-2.html
+05/05/2025 10:35:03 - INFO - Categoria 'Childrens': 29 livros coletados.
+05/05/2025 10:35:03 - INFO - Acessando página 1 da categoria 'Religion': https://books.toscrape.com/catalogue/category/books_1/../books/religion_12/index.html
+05/05/2025 10:35:04 - INFO - Categoria 'Religion': 7 livros coletados.
+05/05/2025 10:35:04 - INFO - Acessando página 1 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/index.html
+05/05/2025 10:35:05 - INFO - Acessando página 2 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-2.html
+05/05/2025 10:35:05 - INFO - Acessando página 3 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-3.html
+05/05/2025 10:35:06 - INFO - Acessando página 4 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-4.html
+05/05/2025 10:35:07 - INFO - Acessando página 5 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-5.html
+05/05/2025 10:35:08 - INFO - Acessando página 6 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-6.html
+05/05/2025 10:35:08 - INFO - Categoria 'Nonfiction': 110 livros coletados.
+05/05/2025 10:35:08 - INFO - Acessando página 1 da categoria 'Music': https://books.toscrape.com/catalogue/category/books_1/../books/music_14/index.html
+05/05/2025 10:35:09 - INFO - Categoria 'Music': 13 livros coletados.
+05/05/2025 10:35:09 - INFO - Acessando página 1 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/index.html
+05/05/2025 10:35:10 - INFO - Acessando página 2 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-2.html
+05/05/2025 10:35:11 - INFO - Acessando página 3 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-3.html
+05/05/2025 10:35:11 - INFO - Acessando página 4 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-4.html
+05/05/2025 10:35:12 - INFO - Acessando página 5 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-5.html
+05/05/2025 10:35:13 - INFO - Acessando página 6 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-6.html
+05/05/2025 10:35:27 - INFO - Iniciando o script de scraping...
+05/05/2025 10:35:28 - INFO - Encontradas 50 categorias. Iniciando coleta...
+05/05/2025 10:35:28 - INFO - Acessando página 1 da categoria 'Travel': https://books.toscrape.com/catalogue/category/books_1/../books/travel_2/index.html
+05/05/2025 10:35:29 - INFO - Categoria 'Travel': 11 livros coletados.
+05/05/2025 10:35:29 - INFO - Acessando página 1 da categoria 'Mystery': https://books.toscrape.com/catalogue/category/books_1/../books/mystery_3/index.html
+05/05/2025 10:35:29 - INFO - Acessando página 2 da categoria 'Mystery': https://books.toscrape.com/catalogue/category/books_1/../books/mystery_3/page-2.html
+05/05/2025 10:35:30 - INFO - Categoria 'Mystery': 32 livros coletados.
+05/05/2025 10:35:30 - INFO - Acessando página 1 da categoria 'Historical Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/historical-fiction_4/index.html
+05/05/2025 10:35:31 - INFO - Acessando página 2 da categoria 'Historical Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/historical-fiction_4/page-2.html
+05/05/2025 10:35:32 - INFO - Categoria 'Historical Fiction': 26 livros coletados.
+05/05/2025 10:35:32 - INFO - Acessando página 1 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/index.html
+05/05/2025 10:35:32 - INFO - Acessando página 2 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/page-2.html
+05/05/2025 10:35:33 - INFO - Acessando página 3 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/page-3.html
+05/05/2025 10:35:34 - INFO - Acessando página 4 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/page-4.html
+05/05/2025 10:35:35 - INFO - Categoria 'Sequential Art': 75 livros coletados.
+05/05/2025 10:35:35 - INFO - Acessando página 1 da categoria 'Classics': https://books.toscrape.com/catalogue/category/books_1/../books/classics_6/index.html
+05/05/2025 10:35:36 - INFO - Categoria 'Classics': 19 livros coletados.
+05/05/2025 10:35:36 - INFO - Acessando página 1 da categoria 'Philosophy': https://books.toscrape.com/catalogue/category/books_1/../books/philosophy_7/index.html
+05/05/2025 10:35:36 - INFO - Categoria 'Philosophy': 11 livros coletados.
+05/05/2025 10:35:36 - INFO - Acessando página 1 da categoria 'Romance': https://books.toscrape.com/catalogue/category/books_1/../books/romance_8/index.html
+05/05/2025 10:35:37 - INFO - Acessando página 2 da categoria 'Romance': https://books.toscrape.com/catalogue/category/books_1/../books/romance_8/page-2.html
+05/05/2025 10:35:38 - INFO - Categoria 'Romance': 35 livros coletados.
+05/05/2025 10:35:38 - INFO - Acessando página 1 da categoria 'Womens Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/womens-fiction_9/index.html
+05/05/2025 10:35:39 - INFO - Categoria 'Womens Fiction': 17 livros coletados.
+05/05/2025 10:35:39 - INFO - Acessando página 1 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/index.html
+05/05/2025 10:35:39 - INFO - Acessando página 2 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/page-2.html
+05/05/2025 10:35:40 - INFO - Acessando página 3 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/page-3.html
+05/05/2025 10:35:41 - INFO - Acessando página 4 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/page-4.html
+05/05/2025 10:35:42 - INFO - Categoria 'Fiction': 65 livros coletados.
+05/05/2025 10:35:42 - INFO - Acessando página 1 da categoria 'Childrens': https://books.toscrape.com/catalogue/category/books_1/../books/childrens_11/index.html
+05/05/2025 10:35:42 - INFO - Acessando página 2 da categoria 'Childrens': https://books.toscrape.com/catalogue/category/books_1/../books/childrens_11/page-2.html
+05/05/2025 10:35:43 - INFO - Categoria 'Childrens': 29 livros coletados.
+05/05/2025 10:35:43 - INFO - Acessando página 1 da categoria 'Religion': https://books.toscrape.com/catalogue/category/books_1/../books/religion_12/index.html
+05/05/2025 10:35:44 - INFO - Categoria 'Religion': 7 livros coletados.
+05/05/2025 10:35:44 - INFO - Acessando página 1 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/index.html
+05/05/2025 10:35:44 - INFO - Acessando página 2 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-2.html
+05/05/2025 10:35:45 - INFO - Acessando página 3 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-3.html
+05/05/2025 10:35:46 - INFO - Acessando página 4 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-4.html
+05/05/2025 10:35:47 - INFO - Acessando página 5 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-5.html
+05/05/2025 10:35:48 - INFO - Acessando página 6 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-6.html
+05/05/2025 10:35:48 - INFO - Categoria 'Nonfiction': 110 livros coletados.
+05/05/2025 10:35:48 - INFO - Acessando página 1 da categoria 'Music': https://books.toscrape.com/catalogue/category/books_1/../books/music_14/index.html
+05/05/2025 10:35:49 - INFO - Categoria 'Music': 13 livros coletados.
+05/05/2025 10:35:49 - INFO - Acessando página 1 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/index.html
+05/05/2025 10:35:50 - INFO - Acessando página 2 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-2.html
+05/05/2025 10:35:51 - INFO - Acessando página 3 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-3.html
+05/05/2025 10:35:51 - INFO - Acessando página 4 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-4.html
+05/05/2025 10:35:52 - INFO - Acessando página 5 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-5.html
+05/05/2025 10:35:53 - INFO - Acessando página 6 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-6.html
+05/05/2025 10:35:54 - INFO - Acessando página 7 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-7.html
+05/05/2025 10:35:55 - INFO - Acessando página 8 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-8.html
+05/05/2025 10:35:55 - INFO - Categoria 'Default': 152 livros coletados.
+05/05/2025 10:35:55 - INFO - Acessando página 1 da categoria 'Science Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/science-fiction_16/index.html
+05/05/2025 10:35:56 - INFO - Categoria 'Science Fiction': 16 livros coletados.
+05/05/2025 10:35:56 - INFO - Acessando página 1 da categoria 'Sports and Games': https://books.toscrape.com/catalogue/category/books_1/../books/sports-and-games_17/index.html
+05/05/2025 10:35:57 - INFO - Categoria 'Sports and Games': 5 livros coletados.
+05/05/2025 10:35:57 - INFO - Acessando página 1 da categoria 'Add a comment': https://books.toscrape.com/catalogue/category/books_1/../books/add-a-comment_18/index.html
+05/05/2025 10:35:58 - INFO - Acessando página 2 da categoria 'Add a comment': https://books.toscrape.com/catalogue/category/books_1/../books/add-a-comment_18/page-2.html
+05/05/2025 10:35:58 - INFO - Acessando página 3 da categoria 'Add a comment': https://books.toscrape.com/catalogue/category/books_1/../books/add-a-comment_18/page-3.html
+05/05/2025 10:36:00 - INFO - Acessando página 4 da categoria 'Add a comment': https://books.toscrape.com/catalogue/category/books_1/../books/add-a-comment_18/page-4.html
+05/05/2025 10:36:00 - INFO - Categoria 'Add a comment': 67 livros coletados.
+05/05/2025 10:36:00 - INFO - Acessando página 1 da categoria 'Fantasy': https://books.toscrape.com/catalogue/category/books_1/../books/fantasy_19/index.html
+05/05/2025 10:36:01 - INFO - Acessando página 2 da categoria 'Fantasy': https://books.toscrape.com/catalogue/category/books_1/../books/fantasy_19/page-2.html
+05/05/2025 10:36:02 - INFO - Acessando página 3 da categoria 'Fantasy': https://books.toscrape.com/catalogue/category/books_1/../books/fantasy_19/page-3.html
+05/05/2025 10:36:03 - INFO - Categoria 'Fantasy': 48 livros coletados.
+05/05/2025 10:36:03 - INFO - Acessando página 1 da categoria 'New Adult': https://books.toscrape.com/catalogue/category/books_1/../books/new-adult_20/index.html
+05/05/2025 10:36:04 - INFO - Categoria 'New Adult': 6 livros coletados.
+05/05/2025 10:36:04 - INFO - Acessando página 1 da categoria 'Young Adult': https://books.toscrape.com/catalogue/category/books_1/../books/young-adult_21/index.html
+05/05/2025 10:36:04 - INFO - Acessando página 2 da categoria 'Young Adult': https://books.toscrape.com/catalogue/category/books_1/../books/young-adult_21/page-2.html
+05/05/2025 10:36:05 - INFO - Acessando página 3 da categoria 'Young Adult': https://books.toscrape.com/catalogue/category/books_1/../books/young-adult_21/page-3.html
+05/05/2025 10:36:07 - INFO - Categoria 'Young Adult': 54 livros coletados.
+05/05/2025 10:36:07 - INFO - Acessando página 1 da categoria 'Science': https://books.toscrape.com/catalogue/category/books_1/../books/science_22/index.html
+05/05/2025 10:36:08 - INFO - Categoria 'Science': 14 livros coletados.
+05/05/2025 10:36:08 - INFO - Acessando página 1 da categoria 'Poetry': https://books.toscrape.com/catalogue/category/books_1/../books/poetry_23/index.html
+05/05/2025 10:36:09 - INFO - Categoria 'Poetry': 19 livros coletados.
+05/05/2025 10:36:09 - INFO - Acessando página 1 da categoria 'Paranormal': https://books.toscrape.com/catalogue/category/books_1/../books/paranormal_24/index.html
+05/05/2025 10:36:09 - INFO - Categoria 'Paranormal': 1 livros coletados.
+05/05/2025 10:36:09 - INFO - Acessando página 1 da categoria 'Art': https://books.toscrape.com/catalogue/category/books_1/../books/art_25/index.html
+05/05/2025 10:36:10 - INFO - Categoria 'Art': 8 livros coletados.
+05/05/2025 10:36:10 - INFO - Acessando página 1 da categoria 'Psychology': https://books.toscrape.com/catalogue/category/books_1/../books/psychology_26/index.html
+05/05/2025 10:36:11 - INFO - Categoria 'Psychology': 7 livros coletados.
+05/05/2025 10:36:11 - INFO - Acessando página 1 da categoria 'Autobiography': https://books.toscrape.com/catalogue/category/books_1/../books/autobiography_27/index.html
+05/05/2025 10:36:12 - INFO - Categoria 'Autobiography': 9 livros coletados.
+05/05/2025 10:36:12 - INFO - Acessando página 1 da categoria 'Parenting': https://books.toscrape.com/catalogue/category/books_1/../books/parenting_28/index.html
+05/05/2025 10:36:12 - INFO - Categoria 'Parenting': 1 livros coletados.
+05/05/2025 10:36:12 - INFO - Acessando página 1 da categoria 'Adult Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/adult-fiction_29/index.html
+05/05/2025 10:36:13 - INFO - Categoria 'Adult Fiction': 1 livros coletados.
+05/05/2025 10:36:13 - INFO - Acessando página 1 da categoria 'Humor': https://books.toscrape.com/catalogue/category/books_1/../books/humor_30/index.html
+05/05/2025 10:36:14 - INFO - Categoria 'Humor': 10 livros coletados.
+05/05/2025 10:36:14 - INFO - Acessando página 1 da categoria 'Horror': https://books.toscrape.com/catalogue/category/books_1/../books/horror_31/index.html
+05/05/2025 10:36:15 - INFO - Categoria 'Horror': 17 livros coletados.
+05/05/2025 10:36:15 - INFO - Acessando página 1 da categoria 'History': https://books.toscrape.com/catalogue/category/books_1/../books/history_32/index.html
+05/05/2025 10:36:16 - INFO - Categoria 'History': 18 livros coletados.
+05/05/2025 10:36:16 - INFO - Acessando página 1 da categoria 'Food and Drink': https://books.toscrape.com/catalogue/category/books_1/../books/food-and-drink_33/index.html
+05/05/2025 10:36:17 - INFO - Acessando página 2 da categoria 'Food and Drink': https://books.toscrape.com/catalogue/category/books_1/../books/food-and-drink_33/page-2.html
+05/05/2025 10:36:17 - INFO - Categoria 'Food and Drink': 30 livros coletados.
+05/05/2025 10:36:17 - INFO - Acessando página 1 da categoria 'Christian Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/christian-fiction_34/index.html
+05/05/2025 10:36:18 - INFO - Categoria 'Christian Fiction': 6 livros coletados.
+05/05/2025 10:36:18 - INFO - Acessando página 1 da categoria 'Business': https://books.toscrape.com/catalogue/category/books_1/../books/business_35/index.html
+05/05/2025 10:36:19 - INFO - Categoria 'Business': 12 livros coletados.
+05/05/2025 10:36:19 - INFO - Acessando página 1 da categoria 'Biography': https://books.toscrape.com/catalogue/category/books_1/../books/biography_36/index.html
+05/05/2025 10:36:19 - INFO - Categoria 'Biography': 5 livros coletados.
+05/05/2025 10:36:19 - INFO - Acessando página 1 da categoria 'Thriller': https://books.toscrape.com/catalogue/category/books_1/../books/thriller_37/index.html
+05/05/2025 10:36:20 - INFO - Categoria 'Thriller': 11 livros coletados.
+05/05/2025 10:36:20 - INFO - Acessando página 1 da categoria 'Contemporary': https://books.toscrape.com/catalogue/category/books_1/../books/contemporary_38/index.html
+05/05/2025 10:36:21 - INFO - Categoria 'Contemporary': 3 livros coletados.
+05/05/2025 10:36:21 - INFO - Acessando página 1 da categoria 'Spirituality': https://books.toscrape.com/catalogue/category/books_1/../books/spirituality_39/index.html
+05/05/2025 10:36:21 - INFO - Categoria 'Spirituality': 6 livros coletados.
+05/05/2025 10:36:21 - INFO - Acessando página 1 da categoria 'Academic': https://books.toscrape.com/catalogue/category/books_1/../books/academic_40/index.html
+05/05/2025 10:36:22 - INFO - Categoria 'Academic': 1 livros coletados.
+05/05/2025 10:36:22 - INFO - Acessando página 1 da categoria 'Self Help': https://books.toscrape.com/catalogue/category/books_1/../books/self-help_41/index.html
+05/05/2025 10:36:23 - INFO - Categoria 'Self Help': 5 livros coletados.
+05/05/2025 10:36:23 - INFO - Acessando página 1 da categoria 'Historical': https://books.toscrape.com/catalogue/category/books_1/../books/historical_42/index.html
+05/05/2025 10:36:23 - INFO - Categoria 'Historical': 2 livros coletados.
+05/05/2025 10:36:23 - INFO - Acessando página 1 da categoria 'Christian': https://books.toscrape.com/catalogue/category/books_1/../books/christian_43/index.html
+05/05/2025 10:36:24 - INFO - Categoria 'Christian': 3 livros coletados.
+05/05/2025 10:36:24 - INFO - Acessando página 1 da categoria 'Suspense': https://books.toscrape.com/catalogue/category/books_1/../books/suspense_44/index.html
+05/05/2025 10:36:24 - INFO - Categoria 'Suspense': 1 livros coletados.
+05/05/2025 10:36:24 - INFO - Acessando página 1 da categoria 'Short Stories': https://books.toscrape.com/catalogue/category/books_1/../books/short-stories_45/index.html
+05/05/2025 10:38:41 - INFO - Iniciando o script de scraping...
+05/05/2025 10:38:42 - INFO - Encontradas 50 categorias. Iniciando coleta...
+05/05/2025 10:38:42 - INFO - Acessando página 1 da categoria 'Travel': https://books.toscrape.com/catalogue/category/books_1/../books/travel_2/index.html
+05/05/2025 10:38:43 - INFO - Categoria 'Travel': 11 livros coletados.
+05/05/2025 10:38:43 - INFO - Acessando página 1 da categoria 'Mystery': https://books.toscrape.com/catalogue/category/books_1/../books/mystery_3/index.html
+05/05/2025 10:38:43 - INFO - Acessando página 2 da categoria 'Mystery': https://books.toscrape.com/catalogue/category/books_1/../books/mystery_3/page-2.html
+05/05/2025 10:38:44 - INFO - Categoria 'Mystery': 32 livros coletados.
+05/05/2025 10:38:44 - INFO - Acessando página 1 da categoria 'Historical Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/historical-fiction_4/index.html
+05/05/2025 10:38:45 - INFO - Acessando página 2 da categoria 'Historical Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/historical-fiction_4/page-2.html
+05/05/2025 10:38:46 - INFO - Categoria 'Historical Fiction': 26 livros coletados.
+05/05/2025 10:38:46 - INFO - Acessando página 1 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/index.html
+05/05/2025 10:38:46 - INFO - Acessando página 2 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/page-2.html
+05/05/2025 10:38:47 - INFO - Acessando página 3 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/page-3.html
+05/05/2025 10:38:48 - INFO - Acessando página 4 da categoria 'Sequential Art': https://books.toscrape.com/catalogue/category/books_1/../books/sequential-art_5/page-4.html
+05/05/2025 10:38:49 - INFO - Categoria 'Sequential Art': 75 livros coletados.
+05/05/2025 10:38:49 - INFO - Acessando página 1 da categoria 'Classics': https://books.toscrape.com/catalogue/category/books_1/../books/classics_6/index.html
+05/05/2025 10:38:50 - INFO - Categoria 'Classics': 19 livros coletados.
+05/05/2025 10:38:50 - INFO - Acessando página 1 da categoria 'Philosophy': https://books.toscrape.com/catalogue/category/books_1/../books/philosophy_7/index.html
+05/05/2025 10:38:50 - INFO - Categoria 'Philosophy': 11 livros coletados.
+05/05/2025 10:38:50 - INFO - Acessando página 1 da categoria 'Romance': https://books.toscrape.com/catalogue/category/books_1/../books/romance_8/index.html
+05/05/2025 10:38:51 - INFO - Acessando página 2 da categoria 'Romance': https://books.toscrape.com/catalogue/category/books_1/../books/romance_8/page-2.html
+05/05/2025 10:38:52 - INFO - Categoria 'Romance': 35 livros coletados.
+05/05/2025 10:38:52 - INFO - Acessando página 1 da categoria 'Womens Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/womens-fiction_9/index.html
+05/05/2025 10:38:53 - INFO - Categoria 'Womens Fiction': 17 livros coletados.
+05/05/2025 10:38:53 - INFO - Acessando página 1 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/index.html
+05/05/2025 10:38:53 - INFO - Acessando página 2 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/page-2.html
+05/05/2025 10:38:54 - INFO - Acessando página 3 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/page-3.html
+05/05/2025 10:38:55 - INFO - Acessando página 4 da categoria 'Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/fiction_10/page-4.html
+05/05/2025 10:38:56 - INFO - Categoria 'Fiction': 65 livros coletados.
+05/05/2025 10:38:56 - INFO - Acessando página 1 da categoria 'Childrens': https://books.toscrape.com/catalogue/category/books_1/../books/childrens_11/index.html
+05/05/2025 10:38:56 - INFO - Acessando página 2 da categoria 'Childrens': https://books.toscrape.com/catalogue/category/books_1/../books/childrens_11/page-2.html
+05/05/2025 10:38:57 - INFO - Categoria 'Childrens': 29 livros coletados.
+05/05/2025 10:38:57 - INFO - Acessando página 1 da categoria 'Religion': https://books.toscrape.com/catalogue/category/books_1/../books/religion_12/index.html
+05/05/2025 10:38:58 - INFO - Categoria 'Religion': 7 livros coletados.
+05/05/2025 10:38:58 - INFO - Acessando página 1 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/index.html
+05/05/2025 10:38:59 - INFO - Acessando página 2 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-2.html
+05/05/2025 10:39:00 - INFO - Acessando página 3 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-3.html
+05/05/2025 10:39:00 - INFO - Acessando página 4 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-4.html
+05/05/2025 10:39:01 - INFO - Acessando página 5 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-5.html
+05/05/2025 10:39:02 - INFO - Acessando página 6 da categoria 'Nonfiction': https://books.toscrape.com/catalogue/category/books_1/../books/nonfiction_13/page-6.html
+05/05/2025 10:39:03 - INFO - Categoria 'Nonfiction': 110 livros coletados.
+05/05/2025 10:39:03 - INFO - Acessando página 1 da categoria 'Music': https://books.toscrape.com/catalogue/category/books_1/../books/music_14/index.html
+05/05/2025 10:39:03 - INFO - Categoria 'Music': 13 livros coletados.
+05/05/2025 10:39:03 - INFO - Acessando página 1 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/index.html
+05/05/2025 10:39:04 - INFO - Acessando página 2 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-2.html
+05/05/2025 10:39:05 - INFO - Acessando página 3 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-3.html
+05/05/2025 10:39:06 - INFO - Acessando página 4 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-4.html
+05/05/2025 10:39:06 - INFO - Acessando página 5 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-5.html
+05/05/2025 10:39:07 - INFO - Acessando página 6 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-6.html
+05/05/2025 10:39:08 - INFO - Acessando página 7 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-7.html
+05/05/2025 10:39:09 - INFO - Acessando página 8 da categoria 'Default': https://books.toscrape.com/catalogue/category/books_1/../books/default_15/page-8.html
+05/05/2025 10:39:10 - INFO - Categoria 'Default': 152 livros coletados.
+05/05/2025 10:39:10 - INFO - Acessando página 1 da categoria 'Science Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/science-fiction_16/index.html
+05/05/2025 10:39:10 - INFO - Categoria 'Science Fiction': 16 livros coletados.
+05/05/2025 10:39:10 - INFO - Acessando página 1 da categoria 'Sports and Games': https://books.toscrape.com/catalogue/category/books_1/../books/sports-and-games_17/index.html
+05/05/2025 10:39:11 - INFO - Categoria 'Sports and Games': 5 livros coletados.
+05/05/2025 10:39:11 - INFO - Acessando página 1 da categoria 'Add a comment': https://books.toscrape.com/catalogue/category/books_1/../books/add-a-comment_18/index.html
+05/05/2025 10:39:12 - INFO - Acessando página 2 da categoria 'Add a comment': https://books.toscrape.com/catalogue/category/books_1/../books/add-a-comment_18/page-2.html
+05/05/2025 10:39:13 - INFO - Acessando página 3 da categoria 'Add a comment': https://books.toscrape.com/catalogue/category/books_1/../books/add-a-comment_18/page-3.html
+05/05/2025 10:39:13 - INFO - Acessando página 4 da categoria 'Add a comment': https://books.toscrape.com/catalogue/category/books_1/../books/add-a-comment_18/page-4.html
+05/05/2025 10:39:14 - INFO - Categoria 'Add a comment': 67 livros coletados.
+05/05/2025 10:39:14 - INFO - Acessando página 1 da categoria 'Fantasy': https://books.toscrape.com/catalogue/category/books_1/../books/fantasy_19/index.html
+05/05/2025 10:39:15 - INFO - Acessando página 2 da categoria 'Fantasy': https://books.toscrape.com/catalogue/category/books_1/../books/fantasy_19/page-2.html
+05/05/2025 10:39:16 - INFO - Acessando página 3 da categoria 'Fantasy': https://books.toscrape.com/catalogue/category/books_1/../books/fantasy_19/page-3.html
+05/05/2025 10:39:16 - INFO - Categoria 'Fantasy': 48 livros coletados.
+05/05/2025 10:39:16 - INFO - Acessando página 1 da categoria 'New Adult': https://books.toscrape.com/catalogue/category/books_1/../books/new-adult_20/index.html
+05/05/2025 10:39:17 - INFO - Categoria 'New Adult': 6 livros coletados.
+05/05/2025 10:39:17 - INFO - Acessando página 1 da categoria 'Young Adult': https://books.toscrape.com/catalogue/category/books_1/../books/young-adult_21/index.html
+05/05/2025 10:39:18 - INFO - Acessando página 2 da categoria 'Young Adult': https://books.toscrape.com/catalogue/category/books_1/../books/young-adult_21/page-2.html
+05/05/2025 10:39:18 - INFO - Acessando página 3 da categoria 'Young Adult': https://books.toscrape.com/catalogue/category/books_1/../books/young-adult_21/page-3.html
+05/05/2025 10:39:19 - INFO - Categoria 'Young Adult': 54 livros coletados.
+05/05/2025 10:39:19 - INFO - Acessando página 1 da categoria 'Science': https://books.toscrape.com/catalogue/category/books_1/../books/science_22/index.html
+05/05/2025 10:39:20 - INFO - Categoria 'Science': 14 livros coletados.
+05/05/2025 10:39:20 - INFO - Acessando página 1 da categoria 'Poetry': https://books.toscrape.com/catalogue/category/books_1/../books/poetry_23/index.html
+05/05/2025 10:39:21 - INFO - Categoria 'Poetry': 19 livros coletados.
+05/05/2025 10:39:21 - INFO - Acessando página 1 da categoria 'Paranormal': https://books.toscrape.com/catalogue/category/books_1/../books/paranormal_24/index.html
+05/05/2025 10:39:21 - INFO - Categoria 'Paranormal': 1 livros coletados.
+05/05/2025 10:39:21 - INFO - Acessando página 1 da categoria 'Art': https://books.toscrape.com/catalogue/category/books_1/../books/art_25/index.html
+05/05/2025 10:39:22 - INFO - Categoria 'Art': 8 livros coletados.
+05/05/2025 10:39:22 - INFO - Acessando página 1 da categoria 'Psychology': https://books.toscrape.com/catalogue/category/books_1/../books/psychology_26/index.html
+05/05/2025 10:39:23 - INFO - Categoria 'Psychology': 7 livros coletados.
+05/05/2025 10:39:23 - INFO - Acessando página 1 da categoria 'Autobiography': https://books.toscrape.com/catalogue/category/books_1/../books/autobiography_27/index.html
+05/05/2025 10:39:23 - INFO - Categoria 'Autobiography': 9 livros coletados.
+05/05/2025 10:39:23 - INFO - Acessando página 1 da categoria 'Parenting': https://books.toscrape.com/catalogue/category/books_1/../books/parenting_28/index.html
+05/05/2025 10:39:24 - INFO - Categoria 'Parenting': 1 livros coletados.
+05/05/2025 10:39:24 - INFO - Acessando página 1 da categoria 'Adult Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/adult-fiction_29/index.html
+05/05/2025 10:39:24 - INFO - Categoria 'Adult Fiction': 1 livros coletados.
+05/05/2025 10:39:24 - INFO - Acessando página 1 da categoria 'Humor': https://books.toscrape.com/catalogue/category/books_1/../books/humor_30/index.html
+05/05/2025 10:39:25 - INFO - Categoria 'Humor': 10 livros coletados.
+05/05/2025 10:39:25 - INFO - Acessando página 1 da categoria 'Horror': https://books.toscrape.com/catalogue/category/books_1/../books/horror_31/index.html
+05/05/2025 10:39:26 - INFO - Categoria 'Horror': 17 livros coletados.
+05/05/2025 10:39:26 - INFO - Acessando página 1 da categoria 'History': https://books.toscrape.com/catalogue/category/books_1/../books/history_32/index.html
+05/05/2025 10:39:27 - INFO - Categoria 'History': 18 livros coletados.
+05/05/2025 10:39:27 - INFO - Acessando página 1 da categoria 'Food and Drink': https://books.toscrape.com/catalogue/category/books_1/../books/food-and-drink_33/index.html
+05/05/2025 10:39:27 - INFO - Acessando página 2 da categoria 'Food and Drink': https://books.toscrape.com/catalogue/category/books_1/../books/food-and-drink_33/page-2.html
+05/05/2025 10:39:28 - INFO - Categoria 'Food and Drink': 30 livros coletados.
+05/05/2025 10:39:28 - INFO - Acessando página 1 da categoria 'Christian Fiction': https://books.toscrape.com/catalogue/category/books_1/../books/christian-fiction_34/index.html
+05/05/2025 10:39:43 - INFO - Categoria 'Christian Fiction': 6 livros coletados.
+05/05/2025 10:39:43 - INFO - Acessando página 1 da categoria 'Business': https://books.toscrape.com/catalogue/category/books_1/../books/business_35/index.html
+05/05/2025 10:39:44 - INFO - Categoria 'Business': 12 livros coletados.
+05/05/2025 10:39:44 - INFO - Acessando página 1 da categoria 'Biography': https://books.toscrape.com/catalogue/category/books_1/../books/biography_36/index.html
+05/05/2025 10:39:44 - INFO - Categoria 'Biography': 5 livros coletados.
+05/05/2025 10:39:44 - INFO - Acessando página 1 da categoria 'Thriller': https://books.toscrape.com/catalogue/category/books_1/../books/thriller_37/index.html
+05/05/2025 10:39:45 - INFO - Categoria 'Thriller': 11 livros coletados.
+05/05/2025 10:39:45 - INFO - Acessando página 1 da categoria 'Contemporary': https://books.toscrape.com/catalogue/category/books_1/../books/contemporary_38/index.html
+05/05/2025 10:39:46 - INFO - Categoria 'Contemporary': 3 livros coletados.
+05/05/2025 10:39:46 - INFO - Acessando página 1 da categoria 'Spirituality': https://books.toscrape.com/catalogue/category/books_1/../books/spirituality_39/index.html
+05/05/2025 10:39:46 - INFO - Categoria 'Spirituality': 6 livros coletados.
+05/05/2025 10:39:46 - INFO - Acessando página 1 da categoria 'Academic': https://books.toscrape.com/catalogue/category/books_1/../books/academic_40/index.html
+05/05/2025 10:39:47 - INFO - Categoria 'Academic': 1 livros coletados.
+05/05/2025 10:39:47 - INFO - Acessando página 1 da categoria 'Self Help': https://books.toscrape.com/catalogue/category/books_1/../books/self-help_41/index.html
+05/05/2025 10:39:48 - INFO - Categoria 'Self Help': 5 livros coletados.
+05/05/2025 10:39:48 - INFO - Acessando página 1 da categoria 'Historical': https://books.toscrape.com/catalogue/category/books_1/../books/historical_42/index.html
+05/05/2025 10:39:48 - INFO - Categoria 'Historical': 2 livros coletados.
+05/05/2025 10:39:48 - INFO - Acessando página 1 da categoria 'Christian': https://books.toscrape.com/catalogue/category/books_1/../books/christian_43/index.html
+05/05/2025 10:39:49 - INFO - Categoria 'Christian': 3 livros coletados.
+05/05/2025 10:39:49 - INFO - Acessando página 1 da categoria 'Suspense': https://books.toscrape.com/catalogue/category/books_1/../books/suspense_44/index.html
+05/05/2025 10:39:49 - INFO - Categoria 'Suspense': 1 livros coletados.
+05/05/2025 10:39:49 - INFO - Acessando página 1 da categoria 'Short Stories': https://books.toscrape.com/catalogue/category/books_1/../books/short-stories_45/index.html
+05/05/2025 10:39:50 - INFO - Categoria 'Short Stories': 1 livros coletados.
+05/05/2025 10:39:50 - INFO - Acessando página 1 da categoria 'Novels': https://books.toscrape.com/catalogue/category/books_1/../books/novels_46/index.html
+05/05/2025 10:39:51 - INFO - Categoria 'Novels': 1 livros coletados.
+05/05/2025 10:39:51 - INFO - Acessando página 1 da categoria 'Health': https://books.toscrape.com/catalogue/category/books_1/../books/health_47/index.html
+05/05/2025 10:39:51 - INFO - Categoria 'Health': 4 livros coletados.
+05/05/2025 10:39:51 - INFO - Acessando página 1 da categoria 'Politics': https://books.toscrape.com/catalogue/category/books_1/../books/politics_48/index.html
+05/05/2025 10:39:52 - INFO - Categoria 'Politics': 3 livros coletados.
+05/05/2025 10:39:52 - INFO - Acessando página 1 da categoria 'Cultural': https://books.toscrape.com/catalogue/category/books_1/../books/cultural_49/index.html
+05/05/2025 10:39:52 - INFO - Categoria 'Cultural': 1 livros coletados.
+05/05/2025 10:39:52 - INFO - Acessando página 1 da categoria 'Erotica': https://books.toscrape.com/catalogue/category/books_1/../books/erotica_50/index.html
+05/05/2025 10:39:53 - INFO - Categoria 'Erotica': 1 livros coletados.
+05/05/2025 10:39:53 - INFO - Acessando página 1 da categoria 'Crime': https://books.toscrape.com/catalogue/category/books_1/../books/crime_51/index.html
+05/05/2025 10:39:54 - INFO - Categoria 'Crime': 1 livros coletados.
+05/05/2025 10:39:54 - INFO - Dados salvos em 'livros.csv'!
+05/05/2025 10:39:54 - INFO - 
+RELATÓRIO FINAL:
+Total de categorias: 50
+Total de livros coletados: 1000
+Tempo total: 72.49 segundos
+05/05/2025 10:55:50 - INFO - Iniciando processo de scraping...
+05/05/2025 10:56:41 - INFO - Encontradas 50 categorias para processar
+05/05/2025 10:56:41 - INFO - Processando categoria: Travel
+05/05/2025 10:56:41 - INFO - Acessando página 1 da categoria 'Travel'
+05/05/2025 10:56:42 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/travel_2/index.html
+05/05/2025 10:56:42 - INFO - Categoria 'Travel': 0 livros coletados
+05/05/2025 10:56:42 - INFO - Categoria 'Travel' concluída: 0 livros
+05/05/2025 10:56:44 - INFO - Processando categoria: Mystery
+05/05/2025 10:56:44 - INFO - Acessando página 1 da categoria 'Mystery'
+05/05/2025 10:56:44 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/mystery_3/index.html
+05/05/2025 10:56:44 - INFO - Categoria 'Mystery': 0 livros coletados
+05/05/2025 10:56:44 - INFO - Categoria 'Mystery' concluída: 0 livros
+05/05/2025 10:56:46 - INFO - Processando categoria: Historical Fiction
+05/05/2025 10:56:46 - INFO - Acessando página 1 da categoria 'Historical Fiction'
+05/05/2025 10:56:47 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/historical-fiction_4/index.html
+05/05/2025 10:56:47 - INFO - Categoria 'Historical Fiction': 0 livros coletados
+05/05/2025 10:56:47 - INFO - Categoria 'Historical Fiction' concluída: 0 livros
+05/05/2025 10:56:49 - INFO - Processando categoria: Sequential Art
+05/05/2025 10:56:49 - INFO - Acessando página 1 da categoria 'Sequential Art'
+05/05/2025 10:56:49 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/sequential-art_5/index.html
+05/05/2025 10:56:49 - INFO - Categoria 'Sequential Art': 0 livros coletados
+05/05/2025 10:56:49 - INFO - Categoria 'Sequential Art' concluída: 0 livros
+05/05/2025 10:56:51 - INFO - Processando categoria: Classics
+05/05/2025 10:56:51 - INFO - Acessando página 1 da categoria 'Classics'
+05/05/2025 10:56:52 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/classics_6/index.html
+05/05/2025 10:56:52 - INFO - Categoria 'Classics': 0 livros coletados
+05/05/2025 10:56:52 - INFO - Categoria 'Classics' concluída: 0 livros
+05/05/2025 10:56:54 - INFO - Processando categoria: Philosophy
+05/05/2025 10:56:54 - INFO - Acessando página 1 da categoria 'Philosophy'
+05/05/2025 10:56:54 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/philosophy_7/index.html
+05/05/2025 10:56:54 - INFO - Categoria 'Philosophy': 0 livros coletados
+05/05/2025 10:56:54 - INFO - Categoria 'Philosophy' concluída: 0 livros
+05/05/2025 10:56:56 - INFO - Processando categoria: Romance
+05/05/2025 10:56:56 - INFO - Acessando página 1 da categoria 'Romance'
+05/05/2025 10:56:57 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/romance_8/index.html
+05/05/2025 10:56:57 - INFO - Categoria 'Romance': 0 livros coletados
+05/05/2025 10:56:57 - INFO - Categoria 'Romance' concluída: 0 livros
+05/05/2025 10:56:59 - INFO - Processando categoria: Womens Fiction
+05/05/2025 10:56:59 - INFO - Acessando página 1 da categoria 'Womens Fiction'
+05/05/2025 10:56:59 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/womens-fiction_9/index.html
+05/05/2025 10:56:59 - INFO - Categoria 'Womens Fiction': 0 livros coletados
+05/05/2025 10:56:59 - INFO - Categoria 'Womens Fiction' concluída: 0 livros
+05/05/2025 10:57:01 - INFO - Processando categoria: Fiction
+05/05/2025 10:57:01 - INFO - Acessando página 1 da categoria 'Fiction'
+05/05/2025 10:57:02 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/fiction_10/index.html
+05/05/2025 10:57:02 - INFO - Categoria 'Fiction': 0 livros coletados
+05/05/2025 10:57:02 - INFO - Categoria 'Fiction' concluída: 0 livros
+05/05/2025 10:57:04 - INFO - Processando categoria: Childrens
+05/05/2025 10:57:04 - INFO - Acessando página 1 da categoria 'Childrens'
+05/05/2025 10:57:04 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/childrens_11/index.html
+05/05/2025 10:57:04 - INFO - Categoria 'Childrens': 0 livros coletados
+05/05/2025 10:57:04 - INFO - Categoria 'Childrens' concluída: 0 livros
+05/05/2025 10:57:06 - INFO - Processando categoria: Religion
+05/05/2025 10:57:06 - INFO - Acessando página 1 da categoria 'Religion'
+05/05/2025 10:57:06 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/religion_12/index.html
+05/05/2025 10:57:06 - INFO - Categoria 'Religion': 0 livros coletados
+05/05/2025 10:57:06 - INFO - Categoria 'Religion' concluída: 0 livros
+05/05/2025 10:57:08 - INFO - Processando categoria: Nonfiction
+05/05/2025 10:57:08 - INFO - Acessando página 1 da categoria 'Nonfiction'
+05/05/2025 10:57:09 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/nonfiction_13/index.html
+05/05/2025 10:57:09 - INFO - Categoria 'Nonfiction': 0 livros coletados
+05/05/2025 10:57:09 - INFO - Categoria 'Nonfiction' concluída: 0 livros
+05/05/2025 10:57:11 - INFO - Processando categoria: Music
+05/05/2025 10:57:11 - INFO - Acessando página 1 da categoria 'Music'
+05/05/2025 10:57:11 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/music_14/index.html
+05/05/2025 10:57:11 - INFO - Categoria 'Music': 0 livros coletados
+05/05/2025 10:57:11 - INFO - Categoria 'Music' concluída: 0 livros
+05/05/2025 10:57:13 - INFO - Processando categoria: Default
+05/05/2025 10:57:13 - INFO - Acessando página 1 da categoria 'Default'
+05/05/2025 10:57:14 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/default_15/index.html
+05/05/2025 10:57:14 - INFO - Categoria 'Default': 0 livros coletados
+05/05/2025 10:57:14 - INFO - Categoria 'Default' concluída: 0 livros
+05/05/2025 10:57:16 - INFO - Processando categoria: Science Fiction
+05/05/2025 10:57:16 - INFO - Acessando página 1 da categoria 'Science Fiction'
+05/05/2025 10:57:16 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/science-fiction_16/index.html
+05/05/2025 10:57:16 - INFO - Categoria 'Science Fiction': 0 livros coletados
+05/05/2025 10:57:16 - INFO - Categoria 'Science Fiction' concluída: 0 livros
+05/05/2025 10:57:18 - INFO - Processando categoria: Sports and Games
+05/05/2025 10:57:18 - INFO - Acessando página 1 da categoria 'Sports and Games'
+05/05/2025 10:57:19 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/sports-and-games_17/index.html
+05/05/2025 10:57:19 - INFO - Categoria 'Sports and Games': 0 livros coletados
+05/05/2025 10:57:19 - INFO - Categoria 'Sports and Games' concluída: 0 livros
+05/05/2025 10:57:21 - INFO - Processando categoria: Add a comment
+05/05/2025 10:57:21 - INFO - Acessando página 1 da categoria 'Add a comment'
+05/05/2025 10:57:21 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/add-a-comment_18/index.html
+05/05/2025 10:57:21 - INFO - Categoria 'Add a comment': 0 livros coletados
+05/05/2025 10:57:21 - INFO - Categoria 'Add a comment' concluída: 0 livros
+05/05/2025 10:57:23 - INFO - Processando categoria: Fantasy
+05/05/2025 10:57:23 - INFO - Acessando página 1 da categoria 'Fantasy'
+05/05/2025 10:57:24 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/fantasy_19/index.html
+05/05/2025 10:57:24 - INFO - Categoria 'Fantasy': 0 livros coletados
+05/05/2025 10:57:24 - INFO - Categoria 'Fantasy' concluída: 0 livros
+05/05/2025 10:57:26 - INFO - Processando categoria: New Adult
+05/05/2025 10:57:26 - INFO - Acessando página 1 da categoria 'New Adult'
+05/05/2025 10:57:26 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/new-adult_20/index.html
+05/05/2025 10:57:26 - INFO - Categoria 'New Adult': 0 livros coletados
+05/05/2025 10:57:26 - INFO - Categoria 'New Adult' concluída: 0 livros
+05/05/2025 10:57:28 - INFO - Processando categoria: Young Adult
+05/05/2025 10:57:28 - INFO - Acessando página 1 da categoria 'Young Adult'
+05/05/2025 10:57:29 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/young-adult_21/index.html
+05/05/2025 10:57:29 - INFO - Categoria 'Young Adult': 0 livros coletados
+05/05/2025 10:57:29 - INFO - Categoria 'Young Adult' concluída: 0 livros
+05/05/2025 10:57:31 - INFO - Processando categoria: Science
+05/05/2025 10:57:31 - INFO - Acessando página 1 da categoria 'Science'
+05/05/2025 10:57:31 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/science_22/index.html
+05/05/2025 10:57:31 - INFO - Categoria 'Science': 0 livros coletados
+05/05/2025 10:57:31 - INFO - Categoria 'Science' concluída: 0 livros
+05/05/2025 10:57:33 - INFO - Processando categoria: Poetry
+05/05/2025 10:57:33 - INFO - Acessando página 1 da categoria 'Poetry'
+05/05/2025 10:57:34 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/poetry_23/index.html
+05/05/2025 10:57:34 - INFO - Categoria 'Poetry': 0 livros coletados
+05/05/2025 10:57:34 - INFO - Categoria 'Poetry' concluída: 0 livros
+05/05/2025 10:57:36 - INFO - Processando categoria: Paranormal
+05/05/2025 10:57:36 - INFO - Acessando página 1 da categoria 'Paranormal'
+05/05/2025 10:57:36 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/paranormal_24/index.html
+05/05/2025 10:57:36 - INFO - Categoria 'Paranormal': 0 livros coletados
+05/05/2025 10:57:36 - INFO - Categoria 'Paranormal' concluída: 0 livros
+05/05/2025 10:57:38 - INFO - Processando categoria: Art
+05/05/2025 10:57:38 - INFO - Acessando página 1 da categoria 'Art'
+05/05/2025 10:57:38 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/art_25/index.html
+05/05/2025 10:57:38 - INFO - Categoria 'Art': 0 livros coletados
+05/05/2025 10:57:38 - INFO - Categoria 'Art' concluída: 0 livros
+05/05/2025 10:57:40 - INFO - Processando categoria: Psychology
+05/05/2025 10:57:40 - INFO - Acessando página 1 da categoria 'Psychology'
+05/05/2025 10:57:41 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/psychology_26/index.html
+05/05/2025 10:57:41 - INFO - Categoria 'Psychology': 0 livros coletados
+05/05/2025 10:57:41 - INFO - Categoria 'Psychology' concluída: 0 livros
+05/05/2025 10:57:43 - INFO - Processando categoria: Autobiography
+05/05/2025 10:57:43 - INFO - Acessando página 1 da categoria 'Autobiography'
+05/05/2025 10:57:43 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/autobiography_27/index.html
+05/05/2025 10:57:43 - INFO - Categoria 'Autobiography': 0 livros coletados
+05/05/2025 10:57:43 - INFO - Categoria 'Autobiography' concluída: 0 livros
+05/05/2025 10:57:45 - INFO - Processando categoria: Parenting
+05/05/2025 10:57:45 - INFO - Acessando página 1 da categoria 'Parenting'
+05/05/2025 10:57:46 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/parenting_28/index.html
+05/05/2025 10:57:46 - INFO - Categoria 'Parenting': 0 livros coletados
+05/05/2025 10:57:46 - INFO - Categoria 'Parenting' concluída: 0 livros
+05/05/2025 10:57:48 - INFO - Processando categoria: Adult Fiction
+05/05/2025 10:57:48 - INFO - Acessando página 1 da categoria 'Adult Fiction'
+05/05/2025 10:57:48 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/adult-fiction_29/index.html
+05/05/2025 10:57:48 - INFO - Categoria 'Adult Fiction': 0 livros coletados
+05/05/2025 10:57:48 - INFO - Categoria 'Adult Fiction' concluída: 0 livros
+05/05/2025 10:57:50 - INFO - Processando categoria: Humor
+05/05/2025 10:57:50 - INFO - Acessando página 1 da categoria 'Humor'
+05/05/2025 10:57:51 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/humor_30/index.html
+05/05/2025 10:57:51 - INFO - Categoria 'Humor': 0 livros coletados
+05/05/2025 10:57:51 - INFO - Categoria 'Humor' concluída: 0 livros
+05/05/2025 10:57:53 - INFO - Processando categoria: Horror
+05/05/2025 10:57:53 - INFO - Acessando página 1 da categoria 'Horror'
+05/05/2025 10:57:53 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/horror_31/index.html
+05/05/2025 10:57:53 - INFO - Categoria 'Horror': 0 livros coletados
+05/05/2025 10:57:53 - INFO - Categoria 'Horror' concluída: 0 livros
+05/05/2025 10:57:55 - INFO - Processando categoria: History
+05/05/2025 10:57:55 - INFO - Acessando página 1 da categoria 'History'
+05/05/2025 10:57:56 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/history_32/index.html
+05/05/2025 10:57:56 - INFO - Categoria 'History': 0 livros coletados
+05/05/2025 10:57:56 - INFO - Categoria 'History' concluída: 0 livros
+05/05/2025 10:57:58 - INFO - Processando categoria: Food and Drink
+05/05/2025 10:57:58 - INFO - Acessando página 1 da categoria 'Food and Drink'
+05/05/2025 10:57:58 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/food-and-drink_33/index.html
+05/05/2025 10:57:58 - INFO - Categoria 'Food and Drink': 0 livros coletados
+05/05/2025 10:57:58 - INFO - Categoria 'Food and Drink' concluída: 0 livros
+05/05/2025 10:58:00 - INFO - Processando categoria: Christian Fiction
+05/05/2025 10:58:00 - INFO - Acessando página 1 da categoria 'Christian Fiction'
+05/05/2025 10:58:01 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/christian-fiction_34/index.html
+05/05/2025 10:58:01 - INFO - Categoria 'Christian Fiction': 0 livros coletados
+05/05/2025 10:58:01 - INFO - Categoria 'Christian Fiction' concluída: 0 livros
+05/05/2025 10:58:03 - INFO - Processando categoria: Business
+05/05/2025 10:58:03 - INFO - Acessando página 1 da categoria 'Business'
+05/05/2025 10:58:03 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/business_35/index.html
+05/05/2025 10:58:03 - INFO - Categoria 'Business': 0 livros coletados
+05/05/2025 10:58:03 - INFO - Categoria 'Business' concluída: 0 livros
+05/05/2025 10:58:05 - INFO - Processando categoria: Biography
+05/05/2025 10:58:05 - INFO - Acessando página 1 da categoria 'Biography'
+05/05/2025 10:58:06 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/biography_36/index.html
+05/05/2025 10:58:06 - INFO - Categoria 'Biography': 0 livros coletados
+05/05/2025 10:58:06 - INFO - Categoria 'Biography' concluída: 0 livros
+05/05/2025 10:58:08 - INFO - Processando categoria: Thriller
+05/05/2025 10:58:08 - INFO - Acessando página 1 da categoria 'Thriller'
+05/05/2025 10:58:08 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/thriller_37/index.html
+05/05/2025 10:58:08 - INFO - Categoria 'Thriller': 0 livros coletados
+05/05/2025 10:58:08 - INFO - Categoria 'Thriller' concluída: 0 livros
+05/05/2025 10:58:10 - INFO - Processando categoria: Contemporary
+05/05/2025 10:58:10 - INFO - Acessando página 1 da categoria 'Contemporary'
+05/05/2025 10:58:10 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/contemporary_38/index.html
+05/05/2025 10:58:10 - INFO - Categoria 'Contemporary': 0 livros coletados
+05/05/2025 10:58:10 - INFO - Categoria 'Contemporary' concluída: 0 livros
+05/05/2025 10:58:12 - INFO - Processando categoria: Spirituality
+05/05/2025 10:58:12 - INFO - Acessando página 1 da categoria 'Spirituality'
+05/05/2025 10:58:13 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/spirituality_39/index.html
+05/05/2025 10:58:13 - INFO - Categoria 'Spirituality': 0 livros coletados
+05/05/2025 10:58:13 - INFO - Categoria 'Spirituality' concluída: 0 livros
+05/05/2025 10:58:15 - INFO - Processando categoria: Academic
+05/05/2025 10:58:15 - INFO - Acessando página 1 da categoria 'Academic'
+05/05/2025 10:58:15 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/academic_40/index.html
+05/05/2025 10:58:15 - INFO - Categoria 'Academic': 0 livros coletados
+05/05/2025 10:58:15 - INFO - Categoria 'Academic' concluída: 0 livros
+05/05/2025 10:58:17 - INFO - Processando categoria: Self Help
+05/05/2025 10:58:17 - INFO - Acessando página 1 da categoria 'Self Help'
+05/05/2025 10:58:18 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/self-help_41/index.html
+05/05/2025 10:58:18 - INFO - Categoria 'Self Help': 0 livros coletados
+05/05/2025 10:58:18 - INFO - Categoria 'Self Help' concluída: 0 livros
+05/05/2025 10:58:20 - INFO - Processando categoria: Historical
+05/05/2025 10:58:20 - INFO - Acessando página 1 da categoria 'Historical'
+05/05/2025 10:58:20 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/historical_42/index.html
+05/05/2025 10:58:20 - INFO - Categoria 'Historical': 0 livros coletados
+05/05/2025 10:58:20 - INFO - Categoria 'Historical' concluída: 0 livros
+05/05/2025 10:58:22 - INFO - Processando categoria: Christian
+05/05/2025 10:58:22 - INFO - Acessando página 1 da categoria 'Christian'
+05/05/2025 10:58:23 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/christian_43/index.html
+05/05/2025 10:58:23 - INFO - Categoria 'Christian': 0 livros coletados
+05/05/2025 10:58:23 - INFO - Categoria 'Christian' concluída: 0 livros
+05/05/2025 10:58:25 - INFO - Processando categoria: Suspense
+05/05/2025 10:58:25 - INFO - Acessando página 1 da categoria 'Suspense'
+05/05/2025 10:58:25 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/suspense_44/index.html
+05/05/2025 10:58:25 - INFO - Categoria 'Suspense': 0 livros coletados
+05/05/2025 10:58:25 - INFO - Categoria 'Suspense' concluída: 0 livros
+05/05/2025 10:58:27 - INFO - Processando categoria: Short Stories
+05/05/2025 10:58:27 - INFO - Acessando página 1 da categoria 'Short Stories'
+05/05/2025 10:58:28 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/short-stories_45/index.html
+05/05/2025 10:58:28 - INFO - Categoria 'Short Stories': 0 livros coletados
+05/05/2025 10:58:28 - INFO - Categoria 'Short Stories' concluída: 0 livros
+05/05/2025 10:58:30 - INFO - Processando categoria: Novels
+05/05/2025 10:58:30 - INFO - Acessando página 1 da categoria 'Novels'
+05/05/2025 10:58:30 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/novels_46/index.html
+05/05/2025 10:58:30 - INFO - Categoria 'Novels': 0 livros coletados
+05/05/2025 10:58:30 - INFO - Categoria 'Novels' concluída: 0 livros
+05/05/2025 10:58:32 - INFO - Processando categoria: Health
+05/05/2025 10:58:32 - INFO - Acessando página 1 da categoria 'Health'
+05/05/2025 10:58:33 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/health_47/index.html
+05/05/2025 10:58:33 - INFO - Categoria 'Health': 0 livros coletados
+05/05/2025 10:58:33 - INFO - Categoria 'Health' concluída: 0 livros
+05/05/2025 10:58:35 - INFO - Processando categoria: Politics
+05/05/2025 10:58:35 - INFO - Acessando página 1 da categoria 'Politics'
+05/05/2025 10:58:35 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/politics_48/index.html
+05/05/2025 10:58:35 - INFO - Categoria 'Politics': 0 livros coletados
+05/05/2025 10:58:35 - INFO - Categoria 'Politics' concluída: 0 livros
+05/05/2025 10:58:37 - INFO - Processando categoria: Cultural
+05/05/2025 10:58:37 - INFO - Acessando página 1 da categoria 'Cultural'
+05/05/2025 10:58:37 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/cultural_49/index.html
+05/05/2025 10:58:37 - INFO - Categoria 'Cultural': 0 livros coletados
+05/05/2025 10:58:37 - INFO - Categoria 'Cultural' concluída: 0 livros
+05/05/2025 10:58:39 - INFO - Processando categoria: Erotica
+05/05/2025 10:58:39 - INFO - Acessando página 1 da categoria 'Erotica'
+05/05/2025 10:58:40 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/erotica_50/index.html
+05/05/2025 10:58:40 - INFO - Categoria 'Erotica': 0 livros coletados
+05/05/2025 10:58:40 - INFO - Categoria 'Erotica' concluída: 0 livros
+05/05/2025 10:58:42 - INFO - Processando categoria: Crime
+05/05/2025 10:58:42 - INFO - Acessando página 1 da categoria 'Crime'
+05/05/2025 10:58:42 - ERROR - Erro na requisição: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/category/books_1/books/crime_51/index.html
+05/05/2025 10:58:42 - INFO - Categoria 'Crime': 0 livros coletados
+05/05/2025 10:58:42 - INFO - Categoria 'Crime' concluída: 0 livros
+05/05/2025 10:58:44 - ERROR - Erro no processo principal: Nenhum livro foi coletado!
+05/05/2025 11:27:34 - INFO - Iniciando processo de scraping...
+05/05/2025 11:28:24 - INFO - Encontradas 50 categorias para processar
+05/05/2025 11:28:24 - INFO - Processando categoria (1/50): Travel
+05/05/2025 11:28:24 - INFO - Acessando página 1 da categoria 'Travel'
+05/05/2025 11:28:25 - INFO - Categoria 'Travel': 11 livros coletados
+05/05/2025 11:28:25 - INFO - Categoria 'Travel' concluída: 11 livros
+05/05/2025 11:28:27 - INFO - Processando categoria (2/50): Mystery
+05/05/2025 11:28:27 - INFO - Acessando página 1 da categoria 'Mystery'
+05/05/2025 11:28:30 - INFO - Acessando página 2 da categoria 'Mystery'
+05/05/2025 11:28:31 - INFO - Categoria 'Mystery': 32 livros coletados
+05/05/2025 11:28:31 - INFO - Categoria 'Mystery' concluída: 32 livros
+05/05/2025 11:28:33 - INFO - Processando categoria (3/50): Historical Fiction
+05/05/2025 11:28:33 - INFO - Acessando página 1 da categoria 'Historical Fiction'
+05/05/2025 11:28:35 - INFO - Acessando página 2 da categoria 'Historical Fiction'
+05/05/2025 11:28:36 - INFO - Categoria 'Historical Fiction': 26 livros coletados
+05/05/2025 11:28:36 - INFO - Categoria 'Historical Fiction' concluída: 26 livros
+05/05/2025 11:28:38 - INFO - Processando categoria (4/50): Sequential Art
+05/05/2025 11:28:38 - INFO - Acessando página 1 da categoria 'Sequential Art'
+05/05/2025 11:28:41 - INFO - Acessando página 2 da categoria 'Sequential Art'
+05/05/2025 11:28:44 - INFO - Acessando página 3 da categoria 'Sequential Art'
+05/05/2025 11:28:46 - INFO - Acessando página 4 da categoria 'Sequential Art'
+05/05/2025 11:28:47 - INFO - Categoria 'Sequential Art': 75 livros coletados
+05/05/2025 11:28:47 - INFO - Categoria 'Sequential Art' concluída: 75 livros
+05/05/2025 11:28:49 - INFO - Processando categoria (5/50): Classics
+05/05/2025 11:28:49 - INFO - Acessando página 1 da categoria 'Classics'
+05/05/2025 11:28:50 - INFO - Categoria 'Classics': 19 livros coletados
+05/05/2025 11:28:50 - INFO - Categoria 'Classics' concluída: 19 livros
+05/05/2025 11:28:52 - INFO - Progresso: 5/50 categorias processadas
+05/05/2025 11:28:52 - INFO - Processando categoria (6/50): Philosophy
+05/05/2025 11:28:52 - INFO - Acessando página 1 da categoria 'Philosophy'
+05/05/2025 11:28:53 - INFO - Categoria 'Philosophy': 11 livros coletados
+05/05/2025 11:28:53 - INFO - Categoria 'Philosophy' concluída: 11 livros
+05/05/2025 11:28:55 - INFO - Processando categoria (7/50): Romance
+05/05/2025 11:28:55 - INFO - Acessando página 1 da categoria 'Romance'
+05/05/2025 11:28:57 - INFO - Acessando página 2 da categoria 'Romance'
+05/05/2025 11:28:58 - INFO - Categoria 'Romance': 35 livros coletados
+05/05/2025 11:28:58 - INFO - Categoria 'Romance' concluída: 35 livros
+05/05/2025 11:29:00 - INFO - Processando categoria (8/50): Womens Fiction
+05/05/2025 11:29:00 - INFO - Acessando página 1 da categoria 'Womens Fiction'
+05/05/2025 11:29:01 - INFO - Categoria 'Womens Fiction': 17 livros coletados
+05/05/2025 11:29:01 - INFO - Categoria 'Womens Fiction' concluída: 17 livros
+05/05/2025 11:29:03 - INFO - Processando categoria (9/50): Fiction
+05/05/2025 11:29:03 - INFO - Acessando página 1 da categoria 'Fiction'
+05/05/2025 11:29:06 - INFO - Acessando página 2 da categoria 'Fiction'
+05/05/2025 11:29:09 - INFO - Acessando página 3 da categoria 'Fiction'
+05/05/2025 11:29:11 - INFO - Acessando página 4 da categoria 'Fiction'
+05/05/2025 11:29:12 - INFO - Categoria 'Fiction': 65 livros coletados
+05/05/2025 11:29:12 - INFO - Categoria 'Fiction' concluída: 65 livros
+05/05/2025 11:29:14 - INFO - Processando categoria (10/50): Childrens
+05/05/2025 11:29:14 - INFO - Acessando página 1 da categoria 'Childrens'
+05/05/2025 11:29:17 - INFO - Acessando página 2 da categoria 'Childrens'
+05/05/2025 11:29:18 - INFO - Categoria 'Childrens': 29 livros coletados
+05/05/2025 11:29:18 - INFO - Categoria 'Childrens' concluída: 29 livros
+05/05/2025 11:29:20 - INFO - Progresso: 10/50 categorias processadas
+05/05/2025 11:29:20 - INFO - Processando categoria (11/50): Religion
+05/05/2025 11:29:20 - INFO - Acessando página 1 da categoria 'Religion'
+05/05/2025 11:29:20 - INFO - Categoria 'Religion': 7 livros coletados
+05/05/2025 11:29:20 - INFO - Categoria 'Religion' concluída: 7 livros
+05/05/2025 11:29:22 - INFO - Processando categoria (12/50): Nonfiction
+05/05/2025 11:29:22 - INFO - Acessando página 1 da categoria 'Nonfiction'
+05/05/2025 11:29:25 - INFO - Acessando página 2 da categoria 'Nonfiction'
+05/05/2025 11:29:28 - INFO - Acessando página 3 da categoria 'Nonfiction'
+05/05/2025 11:29:31 - INFO - Acessando página 4 da categoria 'Nonfiction'
+05/05/2025 11:29:34 - INFO - Acessando página 5 da categoria 'Nonfiction'
+05/05/2025 11:29:37 - INFO - Categoria 'Nonfiction': 100 livros coletados
+05/05/2025 11:29:37 - INFO - Categoria 'Nonfiction' concluída: 100 livros
+05/05/2025 11:29:39 - INFO - Processando categoria (13/50): Music
+05/05/2025 11:29:39 - INFO - Acessando página 1 da categoria 'Music'
+05/05/2025 11:29:39 - INFO - Categoria 'Music': 13 livros coletados
+05/05/2025 11:29:39 - INFO - Categoria 'Music' concluída: 13 livros
+05/05/2025 11:29:41 - INFO - Processando categoria (14/50): Default
+05/05/2025 11:29:41 - INFO - Acessando página 1 da categoria 'Default'
+05/05/2025 11:29:44 - INFO - Acessando página 2 da categoria 'Default'
+05/05/2025 11:29:47 - INFO - Acessando página 3 da categoria 'Default'
+05/05/2025 11:29:50 - INFO - Acessando página 4 da categoria 'Default'
+05/05/2025 11:29:53 - INFO - Acessando página 5 da categoria 'Default'
+05/05/2025 11:29:55 - INFO - Categoria 'Default': 100 livros coletados
+05/05/2025 11:29:55 - INFO - Categoria 'Default' concluída: 100 livros
+05/05/2025 11:29:57 - INFO - Processando categoria (15/50): Science Fiction
+05/05/2025 11:29:57 - INFO - Acessando página 1 da categoria 'Science Fiction'
+05/05/2025 11:29:58 - INFO - Categoria 'Science Fiction': 16 livros coletados
+05/05/2025 11:29:58 - INFO - Categoria 'Science Fiction' concluída: 16 livros
+05/05/2025 11:30:00 - INFO - Progresso: 15/50 categorias processadas
+05/05/2025 11:30:00 - INFO - Processando categoria (16/50): Sports and Games
+05/05/2025 11:30:00 - INFO - Acessando página 1 da categoria 'Sports and Games'
+05/05/2025 11:30:01 - INFO - Categoria 'Sports and Games': 5 livros coletados
+05/05/2025 11:30:01 - INFO - Categoria 'Sports and Games' concluída: 5 livros
+05/05/2025 11:30:03 - INFO - Processando categoria (17/50): Add a comment
+05/05/2025 11:30:03 - INFO - Acessando página 1 da categoria 'Add a comment'
+05/05/2025 11:30:06 - INFO - Acessando página 2 da categoria 'Add a comment'
+05/05/2025 11:30:09 - INFO - Acessando página 3 da categoria 'Add a comment'
+05/05/2025 11:30:11 - INFO - Acessando página 4 da categoria 'Add a comment'
+05/05/2025 11:30:12 - INFO - Categoria 'Add a comment': 67 livros coletados
+05/05/2025 11:30:12 - INFO - Categoria 'Add a comment' concluída: 67 livros
+05/05/2025 11:30:14 - INFO - Processando categoria (18/50): Fantasy
+05/05/2025 11:30:14 - INFO - Acessando página 1 da categoria 'Fantasy'
+05/05/2025 11:30:17 - INFO - Acessando página 2 da categoria 'Fantasy'
+05/05/2025 11:30:20 - INFO - Acessando página 3 da categoria 'Fantasy'
+05/05/2025 11:30:20 - INFO - Categoria 'Fantasy': 48 livros coletados
+05/05/2025 11:30:20 - INFO - Categoria 'Fantasy' concluída: 48 livros
+05/05/2025 11:30:22 - INFO - Processando categoria (19/50): New Adult
+05/05/2025 11:30:22 - INFO - Acessando página 1 da categoria 'New Adult'
+05/05/2025 11:30:23 - INFO - Categoria 'New Adult': 6 livros coletados
+05/05/2025 11:30:23 - INFO - Categoria 'New Adult' concluída: 6 livros
+05/05/2025 11:30:25 - INFO - Processando categoria (20/50): Young Adult
+05/05/2025 11:30:25 - INFO - Acessando página 1 da categoria 'Young Adult'
+05/05/2025 11:30:28 - INFO - Acessando página 2 da categoria 'Young Adult'
+05/05/2025 11:30:30 - INFO - Acessando página 3 da categoria 'Young Adult'
+05/05/2025 11:30:31 - INFO - Categoria 'Young Adult': 54 livros coletados
+05/05/2025 11:30:31 - INFO - Categoria 'Young Adult' concluída: 54 livros
+05/05/2025 11:30:33 - INFO - Progresso: 20/50 categorias processadas
+05/05/2025 11:30:33 - INFO - Processando categoria (21/50): Science
+05/05/2025 11:30:33 - INFO - Acessando página 1 da categoria 'Science'
+05/05/2025 11:30:34 - INFO - Categoria 'Science': 14 livros coletados
+05/05/2025 11:30:34 - INFO - Categoria 'Science' concluída: 14 livros
+05/05/2025 11:30:36 - INFO - Processando categoria (22/50): Poetry
+05/05/2025 11:30:36 - INFO - Acessando página 1 da categoria 'Poetry'
+05/05/2025 11:30:37 - INFO - Categoria 'Poetry': 19 livros coletados
+05/05/2025 11:30:37 - INFO - Categoria 'Poetry' concluída: 19 livros
+05/05/2025 11:30:39 - INFO - Processando categoria (23/50): Paranormal
+05/05/2025 11:30:39 - INFO - Acessando página 1 da categoria 'Paranormal'
+05/05/2025 11:30:39 - INFO - Categoria 'Paranormal': 1 livros coletados
+05/05/2025 11:30:39 - INFO - Categoria 'Paranormal' concluída: 1 livros
+05/05/2025 11:30:41 - INFO - Processando categoria (24/50): Art
+05/05/2025 11:30:41 - INFO - Acessando página 1 da categoria 'Art'
+05/05/2025 11:30:42 - INFO - Categoria 'Art': 8 livros coletados
+05/05/2025 11:30:42 - INFO - Categoria 'Art' concluída: 8 livros
+05/05/2025 11:30:44 - INFO - Processando categoria (25/50): Psychology
+05/05/2025 11:30:44 - INFO - Acessando página 1 da categoria 'Psychology'
+05/05/2025 11:30:45 - INFO - Categoria 'Psychology': 7 livros coletados
+05/05/2025 11:30:45 - INFO - Categoria 'Psychology' concluída: 7 livros
+05/05/2025 11:30:47 - INFO - Progresso: 25/50 categorias processadas
+05/05/2025 11:30:47 - INFO - Processando categoria (26/50): Autobiography
+05/05/2025 11:30:47 - INFO - Acessando página 1 da categoria 'Autobiography'
+05/05/2025 11:30:47 - INFO - Categoria 'Autobiography': 9 livros coletados
+05/05/2025 11:30:47 - INFO - Categoria 'Autobiography' concluída: 9 livros
+05/05/2025 11:30:49 - INFO - Processando categoria (27/50): Parenting
+05/05/2025 11:30:49 - INFO - Acessando página 1 da categoria 'Parenting'
+05/05/2025 11:30:50 - INFO - Categoria 'Parenting': 1 livros coletados
+05/05/2025 11:30:50 - INFO - Categoria 'Parenting' concluída: 1 livros
+05/05/2025 11:30:52 - INFO - Processando categoria (28/50): Adult Fiction
+05/05/2025 11:30:52 - INFO - Acessando página 1 da categoria 'Adult Fiction'
+05/05/2025 11:30:53 - INFO - Categoria 'Adult Fiction': 1 livros coletados
+05/05/2025 11:30:53 - INFO - Categoria 'Adult Fiction' concluída: 1 livros
+05/05/2025 11:30:55 - INFO - Processando categoria (29/50): Humor
+05/05/2025 11:30:55 - INFO - Acessando página 1 da categoria 'Humor'
+05/05/2025 11:30:55 - INFO - Categoria 'Humor': 10 livros coletados
+05/05/2025 11:30:55 - INFO - Categoria 'Humor' concluída: 10 livros
+05/05/2025 11:30:57 - INFO - Processando categoria (30/50): Horror
+05/05/2025 11:30:57 - INFO - Acessando página 1 da categoria 'Horror'
+05/05/2025 11:30:58 - INFO - Categoria 'Horror': 17 livros coletados
+05/05/2025 11:30:58 - INFO - Categoria 'Horror' concluída: 17 livros
+05/05/2025 11:31:00 - INFO - Progresso: 30/50 categorias processadas
+05/05/2025 11:31:00 - INFO - Processando categoria (31/50): History
+05/05/2025 11:31:00 - INFO - Acessando página 1 da categoria 'History'
+05/05/2025 11:31:01 - INFO - Categoria 'History': 18 livros coletados
+05/05/2025 11:31:01 - INFO - Categoria 'History' concluída: 18 livros
+05/05/2025 11:31:03 - INFO - Processando categoria (32/50): Food and Drink
+05/05/2025 11:31:03 - INFO - Acessando página 1 da categoria 'Food and Drink'
+05/05/2025 11:31:06 - INFO - Acessando página 2 da categoria 'Food and Drink'
+05/05/2025 11:31:06 - INFO - Categoria 'Food and Drink': 30 livros coletados
+05/05/2025 11:31:06 - INFO - Categoria 'Food and Drink' concluída: 30 livros
+05/05/2025 11:31:08 - INFO - Processando categoria (33/50): Christian Fiction
+05/05/2025 11:31:08 - INFO - Acessando página 1 da categoria 'Christian Fiction'
+05/05/2025 11:31:09 - INFO - Categoria 'Christian Fiction': 6 livros coletados
+05/05/2025 11:31:09 - INFO - Categoria 'Christian Fiction' concluída: 6 livros
+05/05/2025 11:31:11 - INFO - Processando categoria (34/50): Business
+05/05/2025 11:31:11 - INFO - Acessando página 1 da categoria 'Business'
+05/05/2025 11:31:12 - INFO - Categoria 'Business': 12 livros coletados
+05/05/2025 11:31:12 - INFO - Categoria 'Business' concluída: 12 livros
+05/05/2025 11:31:14 - INFO - Processando categoria (35/50): Biography
+05/05/2025 11:31:14 - INFO - Acessando página 1 da categoria 'Biography'
+05/05/2025 11:31:14 - INFO - Categoria 'Biography': 5 livros coletados
+05/05/2025 11:31:14 - INFO - Categoria 'Biography' concluída: 5 livros
+05/05/2025 11:31:16 - INFO - Progresso: 35/50 categorias processadas
+05/05/2025 11:31:16 - INFO - Processando categoria (36/50): Thriller
+05/05/2025 11:31:16 - INFO - Acessando página 1 da categoria 'Thriller'
+05/05/2025 11:31:17 - INFO - Categoria 'Thriller': 11 livros coletados
+05/05/2025 11:31:17 - INFO - Categoria 'Thriller' concluída: 11 livros
+05/05/2025 11:31:19 - INFO - Processando categoria (37/50): Contemporary
+05/05/2025 11:31:19 - INFO - Acessando página 1 da categoria 'Contemporary'
+05/05/2025 11:31:20 - INFO - Categoria 'Contemporary': 3 livros coletados
+05/05/2025 11:31:20 - INFO - Categoria 'Contemporary' concluída: 3 livros
+05/05/2025 11:31:22 - INFO - Processando categoria (38/50): Spirituality
+05/05/2025 11:31:22 - INFO - Acessando página 1 da categoria 'Spirituality'
+05/05/2025 11:31:22 - INFO - Categoria 'Spirituality': 6 livros coletados
+05/05/2025 11:31:22 - INFO - Categoria 'Spirituality' concluída: 6 livros
+05/05/2025 11:31:24 - INFO - Processando categoria (39/50): Academic
+05/05/2025 11:31:24 - INFO - Acessando página 1 da categoria 'Academic'
+05/05/2025 11:31:25 - INFO - Categoria 'Academic': 1 livros coletados
+05/05/2025 11:31:25 - INFO - Categoria 'Academic' concluída: 1 livros
+05/05/2025 11:31:27 - INFO - Processando categoria (40/50): Self Help
+05/05/2025 11:31:27 - INFO - Acessando página 1 da categoria 'Self Help'
+05/05/2025 11:31:27 - INFO - Categoria 'Self Help': 5 livros coletados
+05/05/2025 11:31:27 - INFO - Categoria 'Self Help' concluída: 5 livros
+05/05/2025 11:31:29 - INFO - Progresso: 40/50 categorias processadas
+05/05/2025 11:31:29 - INFO - Processando categoria (41/50): Historical
+05/05/2025 11:31:29 - INFO - Acessando página 1 da categoria 'Historical'
+05/05/2025 11:31:30 - INFO - Categoria 'Historical': 2 livros coletados
+05/05/2025 11:31:30 - INFO - Categoria 'Historical' concluída: 2 livros
+05/05/2025 11:31:32 - INFO - Processando categoria (42/50): Christian
+05/05/2025 11:31:32 - INFO - Acessando página 1 da categoria 'Christian'
+05/05/2025 11:31:33 - INFO - Categoria 'Christian': 3 livros coletados
+05/05/2025 11:31:33 - INFO - Categoria 'Christian' concluída: 3 livros
+05/05/2025 11:31:35 - INFO - Processando categoria (43/50): Suspense
+05/05/2025 11:31:35 - INFO - Acessando página 1 da categoria 'Suspense'
+05/05/2025 11:31:35 - INFO - Categoria 'Suspense': 1 livros coletados
+05/05/2025 11:31:35 - INFO - Categoria 'Suspense' concluída: 1 livros
+05/05/2025 11:31:37 - INFO - Processando categoria (44/50): Short Stories
+05/05/2025 11:31:37 - INFO - Acessando página 1 da categoria 'Short Stories'
+05/05/2025 11:31:38 - INFO - Categoria 'Short Stories': 1 livros coletados
+05/05/2025 11:31:38 - INFO - Categoria 'Short Stories' concluída: 1 livros
+05/05/2025 11:31:40 - INFO - Processando categoria (45/50): Novels
+05/05/2025 11:31:40 - INFO - Acessando página 1 da categoria 'Novels'
+05/05/2025 11:31:41 - INFO - Categoria 'Novels': 1 livros coletados
+05/05/2025 11:31:41 - INFO - Categoria 'Novels' concluída: 1 livros
+05/05/2025 11:31:43 - INFO - Progresso: 45/50 categorias processadas
+05/05/2025 11:31:43 - INFO - Processando categoria (46/50): Health
+05/05/2025 11:31:43 - INFO - Acessando página 1 da categoria 'Health'
+05/05/2025 11:31:43 - INFO - Categoria 'Health': 4 livros coletados
+05/05/2025 11:31:43 - INFO - Categoria 'Health' concluída: 4 livros
+05/05/2025 11:31:45 - INFO - Processando categoria (47/50): Politics
+05/05/2025 11:31:45 - INFO - Acessando página 1 da categoria 'Politics'
+05/05/2025 11:31:46 - INFO - Categoria 'Politics': 3 livros coletados
+05/05/2025 11:31:46 - INFO - Categoria 'Politics' concluída: 3 livros
+05/05/2025 11:31:48 - INFO - Processando categoria (48/50): Cultural
+05/05/2025 11:31:48 - INFO - Acessando página 1 da categoria 'Cultural'
+05/05/2025 11:31:48 - INFO - Categoria 'Cultural': 1 livros coletados
+05/05/2025 11:31:48 - INFO - Categoria 'Cultural' concluída: 1 livros
+05/05/2025 11:31:50 - INFO - Processando categoria (49/50): Erotica
+05/05/2025 11:31:50 - INFO - Acessando página 1 da categoria 'Erotica'
+05/05/2025 11:31:51 - INFO - Categoria 'Erotica': 1 livros coletados
+05/05/2025 11:31:51 - INFO - Categoria 'Erotica' concluída: 1 livros
+05/05/2025 11:31:53 - INFO - Processando categoria (50/50): Crime
+05/05/2025 11:31:53 - INFO - Acessando página 1 da categoria 'Crime'
+05/05/2025 11:31:54 - INFO - Categoria 'Crime': 1 livros coletados
+05/05/2025 11:31:54 - INFO - Categoria 'Crime' concluída: 1 livros
+05/05/2025 11:31:56 - INFO - Progresso: 50/50 categorias processadas
+05/05/2025 11:31:56 - INFO - Dados salvos em 'livros.csv'
+05/05/2025 11:31:56 - INFO - 
+=== RELATÓRIO POR CATEGORIA ===
+- Nonfiction               : 100 livros
+- Default                  : 100 livros
+- Sequential Art           : 75 livros
+- Add a comment            : 67 livros
+- Fiction                  : 65 livros
+- Young Adult              : 54 livros
+- Fantasy                  : 48 livros
+- Romance                  : 35 livros
+- Mystery                  : 32 livros
+- Food and Drink           : 30 livros
+- Childrens                : 29 livros
+- Historical Fiction       : 26 livros
+- Classics                 : 19 livros
+- Poetry                   : 19 livros
+- History                  : 18 livros
+- Womens Fiction           : 17 livros
+- Horror                   : 17 livros
+- Science Fiction          : 16 livros
+- Science                  : 14 livros
+- Music                    : 13 livros
+- Business                 : 12 livros
+- Travel                   : 11 livros
+- Philosophy               : 11 livros
+- Thriller                 : 11 livros
+- Humor                    : 10 livros
+- Autobiography            : 9 livros
+- Art                      : 8 livros
+- Religion                 : 7 livros
+- Psychology               : 7 livros
+- New Adult                : 6 livros
+- Christian Fiction        : 6 livros
+- Spirituality             : 6 livros
+- Sports and Games         : 5 livros
+- Biography                : 5 livros
+- Self Help                : 5 livros
+- Health                   : 4 livros
+- Contemporary             : 3 livros
+- Christian                : 3 livros
+- Politics                 : 3 livros
+- Historical               : 2 livros
+- Paranormal               : 1 livros
+- Parenting                : 1 livros
+- Adult Fiction            : 1 livros
+- Academic                 : 1 livros
+- Suspense                 : 1 livros
+- Short Stories            : 1 livros
+- Novels                   : 1 livros
+- Cultural                 : 1 livros
+- Erotica                  : 1 livros
+- Crime                    : 1 livros
+===============================
+05/05/2025 11:31:56 - INFO - Processo concluído! Total de 938 livros coletados em 262.27 segundos
+05/05/2025 11:54:09 - INFO - 198 - Iniciando processo de scraping...
+05/05/2025 11:55:00 - INFO - 206 - Encontradas 50 categorias para processar
+05/05/2025 11:55:00 - INFO - 212 - Processando categoria (1/50): Travel
+05/05/2025 11:55:00 - INFO - 96 - Acessando pagina 1 da categoria 'Travel'
+05/05/2025 11:55:01 - INFO - 174 - Categoria 'Travel': 11 livros coletados
+05/05/2025 11:55:01 - INFO - 219 - Categoria 'Travel' concluida: 11 livros
+05/05/2025 11:55:03 - INFO - 212 - Processando categoria (2/50): Mystery
+05/05/2025 11:55:03 - INFO - 96 - Acessando pagina 1 da categoria 'Mystery'
+05/05/2025 11:55:05 - INFO - 96 - Acessando pagina 2 da categoria 'Mystery'
+05/05/2025 11:55:06 - INFO - 174 - Categoria 'Mystery': 32 livros coletados
+05/05/2025 11:55:06 - INFO - 219 - Categoria 'Mystery' concluida: 32 livros
+05/05/2025 11:55:08 - INFO - 212 - Processando categoria (3/50): Historical Fiction
+05/05/2025 11:55:08 - INFO - 96 - Acessando pagina 1 da categoria 'Historical Fiction'
+05/05/2025 11:55:11 - INFO - 96 - Acessando pagina 2 da categoria 'Historical Fiction'
+05/05/2025 11:55:12 - INFO - 174 - Categoria 'Historical Fiction': 26 livros coletados
+05/05/2025 11:55:12 - INFO - 219 - Categoria 'Historical Fiction' concluida: 26 livros
+05/05/2025 11:55:14 - INFO - 212 - Processando categoria (4/50): Sequential Art
+05/05/2025 11:55:14 - INFO - 96 - Acessando pagina 1 da categoria 'Sequential Art'
+05/05/2025 11:55:16 - INFO - 96 - Acessando pagina 2 da categoria 'Sequential Art'
+05/05/2025 11:55:19 - INFO - 96 - Acessando pagina 3 da categoria 'Sequential Art'
+05/05/2025 11:55:22 - INFO - 96 - Acessando pagina 4 da categoria 'Sequential Art'
+05/05/2025 11:55:23 - INFO - 174 - Categoria 'Sequential Art': 75 livros coletados
+05/05/2025 11:55:23 - INFO - 219 - Categoria 'Sequential Art' concluida: 75 livros
+05/05/2025 11:55:25 - INFO - 212 - Processando categoria (5/50): Classics
+05/05/2025 11:55:25 - INFO - 96 - Acessando pagina 1 da categoria 'Classics'
+05/05/2025 11:55:26 - INFO - 174 - Categoria 'Classics': 19 livros coletados
+05/05/2025 11:55:26 - INFO - 219 - Categoria 'Classics' concluida: 19 livros
+05/05/2025 11:55:28 - INFO - 226 - Progresso: 5/50 categorias processadas
+05/05/2025 11:55:28 - INFO - 212 - Processando categoria (6/50): Philosophy
+05/05/2025 11:55:28 - INFO - 96 - Acessando pagina 1 da categoria 'Philosophy'
+05/05/2025 11:55:28 - INFO - 174 - Categoria 'Philosophy': 11 livros coletados
+05/05/2025 11:55:28 - INFO - 219 - Categoria 'Philosophy' concluida: 11 livros
+05/05/2025 11:55:30 - INFO - 212 - Processando categoria (7/50): Romance
+05/05/2025 11:55:30 - INFO - 96 - Acessando pagina 1 da categoria 'Romance'
+05/05/2025 11:55:33 - INFO - 96 - Acessando pagina 2 da categoria 'Romance'
+05/05/2025 11:55:34 - INFO - 174 - Categoria 'Romance': 35 livros coletados
+05/05/2025 11:55:34 - INFO - 219 - Categoria 'Romance' concluida: 35 livros
+05/05/2025 11:55:36 - INFO - 212 - Processando categoria (8/50): Womens Fiction
+05/05/2025 11:55:36 - INFO - 96 - Acessando pagina 1 da categoria 'Womens Fiction'
+05/05/2025 11:55:37 - INFO - 174 - Categoria 'Womens Fiction': 17 livros coletados
+05/05/2025 11:55:37 - INFO - 219 - Categoria 'Womens Fiction' concluida: 17 livros
+05/05/2025 11:55:39 - INFO - 212 - Processando categoria (9/50): Fiction
+05/05/2025 11:55:39 - INFO - 96 - Acessando pagina 1 da categoria 'Fiction'
+05/05/2025 11:55:41 - INFO - 96 - Acessando pagina 2 da categoria 'Fiction'
+05/05/2025 11:55:44 - INFO - 96 - Acessando pagina 3 da categoria 'Fiction'
+05/05/2025 11:55:47 - INFO - 96 - Acessando pagina 4 da categoria 'Fiction'
+05/05/2025 11:55:48 - INFO - 174 - Categoria 'Fiction': 65 livros coletados
+05/05/2025 11:55:48 - INFO - 219 - Categoria 'Fiction' concluida: 65 livros
+05/05/2025 11:55:50 - INFO - 212 - Processando categoria (10/50): Childrens
+05/05/2025 11:55:50 - INFO - 96 - Acessando pagina 1 da categoria 'Childrens'
+05/05/2025 11:55:53 - INFO - 96 - Acessando pagina 2 da categoria 'Childrens'
+05/05/2025 11:55:53 - INFO - 174 - Categoria 'Childrens': 29 livros coletados
+05/05/2025 11:55:53 - INFO - 219 - Categoria 'Childrens' concluida: 29 livros
+05/05/2025 11:55:55 - INFO - 226 - Progresso: 10/50 categorias processadas
+05/05/2025 11:55:55 - INFO - 212 - Processando categoria (11/50): Religion
+05/05/2025 11:55:55 - INFO - 96 - Acessando pagina 1 da categoria 'Religion'
+05/05/2025 11:55:56 - INFO - 174 - Categoria 'Religion': 7 livros coletados
+05/05/2025 11:55:56 - INFO - 219 - Categoria 'Religion' concluida: 7 livros
+05/05/2025 11:55:58 - INFO - 212 - Processando categoria (12/50): Nonfiction
+05/05/2025 11:55:58 - INFO - 96 - Acessando pagina 1 da categoria 'Nonfiction'
+05/05/2025 11:56:01 - INFO - 96 - Acessando pagina 2 da categoria 'Nonfiction'
+05/05/2025 11:56:03 - INFO - 96 - Acessando pagina 3 da categoria 'Nonfiction'
+05/05/2025 11:56:06 - INFO - 96 - Acessando pagina 4 da categoria 'Nonfiction'
+05/05/2025 11:56:09 - INFO - 96 - Acessando pagina 5 da categoria 'Nonfiction'
+05/05/2025 11:56:12 - INFO - 174 - Categoria 'Nonfiction': 100 livros coletados
+05/05/2025 11:56:12 - INFO - 219 - Categoria 'Nonfiction' concluida: 100 livros
+05/05/2025 11:56:14 - INFO - 212 - Processando categoria (13/50): Music
+05/05/2025 11:56:14 - INFO - 96 - Acessando pagina 1 da categoria 'Music'
+05/05/2025 11:56:14 - INFO - 174 - Categoria 'Music': 13 livros coletados
+05/05/2025 11:56:14 - INFO - 219 - Categoria 'Music' concluida: 13 livros
+05/05/2025 11:56:16 - INFO - 212 - Processando categoria (14/50): Default
+05/05/2025 11:56:16 - INFO - 96 - Acessando pagina 1 da categoria 'Default'
+05/05/2025 11:56:19 - INFO - 96 - Acessando pagina 2 da categoria 'Default'
+05/05/2025 11:56:22 - INFO - 96 - Acessando pagina 3 da categoria 'Default'
+05/05/2025 11:56:25 - INFO - 96 - Acessando pagina 4 da categoria 'Default'
+05/05/2025 11:56:28 - INFO - 96 - Acessando pagina 5 da categoria 'Default'
+05/05/2025 11:56:30 - INFO - 174 - Categoria 'Default': 100 livros coletados
+05/05/2025 11:56:30 - INFO - 219 - Categoria 'Default' concluida: 100 livros
+05/05/2025 11:56:32 - INFO - 212 - Processando categoria (15/50): Science Fiction
+05/05/2025 11:56:32 - INFO - 96 - Acessando pagina 1 da categoria 'Science Fiction'
+05/05/2025 11:56:33 - INFO - 174 - Categoria 'Science Fiction': 16 livros coletados
+05/05/2025 11:56:33 - INFO - 219 - Categoria 'Science Fiction' concluida: 16 livros
+05/05/2025 11:56:35 - INFO - 226 - Progresso: 15/50 categorias processadas
+05/05/2025 11:56:35 - INFO - 212 - Processando categoria (16/50): Sports and Games
+05/05/2025 11:56:35 - INFO - 96 - Acessando pagina 1 da categoria 'Sports and Games'
+05/05/2025 11:56:36 - INFO - 174 - Categoria 'Sports and Games': 5 livros coletados
+05/05/2025 11:56:36 - INFO - 219 - Categoria 'Sports and Games' concluida: 5 livros
+05/05/2025 11:56:38 - INFO - 212 - Processando categoria (17/50): Add a comment
+05/05/2025 11:56:38 - INFO - 96 - Acessando pagina 1 da categoria 'Add a comment'
+05/05/2025 11:56:41 - INFO - 96 - Acessando pagina 2 da categoria 'Add a comment'
+05/05/2025 11:56:43 - INFO - 96 - Acessando pagina 3 da categoria 'Add a comment'
+05/05/2025 11:56:46 - INFO - 96 - Acessando pagina 4 da categoria 'Add a comment'
+05/05/2025 11:56:47 - INFO - 174 - Categoria 'Add a comment': 67 livros coletados
+05/05/2025 11:56:47 - INFO - 219 - Categoria 'Add a comment' concluida: 67 livros
+05/05/2025 11:56:49 - INFO - 212 - Processando categoria (18/50): Fantasy
+05/05/2025 11:56:49 - INFO - 96 - Acessando pagina 1 da categoria 'Fantasy'
+05/05/2025 11:56:52 - INFO - 96 - Acessando pagina 2 da categoria 'Fantasy'
+05/05/2025 11:56:54 - INFO - 96 - Acessando pagina 3 da categoria 'Fantasy'
+05/05/2025 11:56:55 - INFO - 174 - Categoria 'Fantasy': 48 livros coletados
+05/05/2025 11:56:55 - INFO - 219 - Categoria 'Fantasy' concluida: 48 livros
+05/05/2025 11:56:57 - INFO - 212 - Processando categoria (19/50): New Adult
+05/05/2025 11:56:57 - INFO - 96 - Acessando pagina 1 da categoria 'New Adult'
+05/05/2025 11:56:58 - INFO - 174 - Categoria 'New Adult': 6 livros coletados
+05/05/2025 11:56:58 - INFO - 219 - Categoria 'New Adult' concluida: 6 livros
+05/05/2025 11:57:00 - INFO - 212 - Processando categoria (20/50): Young Adult
+05/05/2025 11:57:00 - INFO - 96 - Acessando pagina 1 da categoria 'Young Adult'
+05/05/2025 11:57:02 - INFO - 96 - Acessando pagina 2 da categoria 'Young Adult'
+05/05/2025 11:57:05 - INFO - 96 - Acessando pagina 3 da categoria 'Young Adult'
+05/05/2025 11:57:06 - INFO - 174 - Categoria 'Young Adult': 54 livros coletados
+05/05/2025 11:57:06 - INFO - 219 - Categoria 'Young Adult' concluida: 54 livros
+05/05/2025 11:57:08 - INFO - 226 - Progresso: 20/50 categorias processadas
+05/05/2025 11:57:08 - INFO - 212 - Processando categoria (21/50): Science
+05/05/2025 11:57:08 - INFO - 96 - Acessando pagina 1 da categoria 'Science'
+05/05/2025 11:57:09 - INFO - 174 - Categoria 'Science': 14 livros coletados
+05/05/2025 11:57:09 - INFO - 219 - Categoria 'Science' concluida: 14 livros
+05/05/2025 11:57:11 - INFO - 212 - Processando categoria (22/50): Poetry
+05/05/2025 11:57:11 - INFO - 96 - Acessando pagina 1 da categoria 'Poetry'
+05/05/2025 11:57:12 - INFO - 174 - Categoria 'Poetry': 19 livros coletados
+05/05/2025 11:57:12 - INFO - 219 - Categoria 'Poetry' concluida: 19 livros
+05/05/2025 11:57:14 - INFO - 212 - Processando categoria (23/50): Paranormal
+05/05/2025 11:57:14 - INFO - 96 - Acessando pagina 1 da categoria 'Paranormal'
+05/05/2025 11:57:14 - INFO - 174 - Categoria 'Paranormal': 1 livros coletados
+05/05/2025 11:57:14 - INFO - 219 - Categoria 'Paranormal' concluida: 1 livros
+05/05/2025 11:57:16 - INFO - 212 - Processando categoria (24/50): Art
+05/05/2025 11:57:16 - INFO - 96 - Acessando pagina 1 da categoria 'Art'
+05/05/2025 11:57:17 - INFO - 174 - Categoria 'Art': 8 livros coletados
+05/05/2025 11:57:17 - INFO - 219 - Categoria 'Art' concluida: 8 livros
+05/05/2025 11:57:19 - INFO - 212 - Processando categoria (25/50): Psychology
+05/05/2025 11:57:19 - INFO - 96 - Acessando pagina 1 da categoria 'Psychology'
+05/05/2025 11:57:20 - INFO - 174 - Categoria 'Psychology': 7 livros coletados
+05/05/2025 11:57:20 - INFO - 219 - Categoria 'Psychology' concluida: 7 livros
+05/05/2025 11:57:22 - INFO - 226 - Progresso: 25/50 categorias processadas
+05/05/2025 11:57:22 - INFO - 212 - Processando categoria (26/50): Autobiography
+05/05/2025 11:57:22 - INFO - 96 - Acessando pagina 1 da categoria 'Autobiography'
+05/05/2025 11:57:22 - INFO - 174 - Categoria 'Autobiography': 9 livros coletados
+05/05/2025 11:57:22 - INFO - 219 - Categoria 'Autobiography' concluida: 9 livros
+05/05/2025 11:57:24 - INFO - 212 - Processando categoria (27/50): Parenting
+05/05/2025 11:57:24 - INFO - 96 - Acessando pagina 1 da categoria 'Parenting'
+05/05/2025 11:57:25 - INFO - 174 - Categoria 'Parenting': 1 livros coletados
+05/05/2025 11:57:25 - INFO - 219 - Categoria 'Parenting' concluida: 1 livros
+05/05/2025 11:57:27 - INFO - 212 - Processando categoria (28/50): Adult Fiction
+05/05/2025 11:57:27 - INFO - 96 - Acessando pagina 1 da categoria 'Adult Fiction'
+05/05/2025 11:57:28 - INFO - 174 - Categoria 'Adult Fiction': 1 livros coletados
+05/05/2025 11:57:28 - INFO - 219 - Categoria 'Adult Fiction' concluida: 1 livros
+05/05/2025 11:57:30 - INFO - 212 - Processando categoria (29/50): Humor
+05/05/2025 11:57:30 - INFO - 96 - Acessando pagina 1 da categoria 'Humor'
+05/05/2025 11:57:30 - INFO - 174 - Categoria 'Humor': 10 livros coletados
+05/05/2025 11:57:30 - INFO - 219 - Categoria 'Humor' concluida: 10 livros
+05/05/2025 11:57:32 - INFO - 212 - Processando categoria (30/50): Horror
+05/05/2025 11:57:32 - INFO - 96 - Acessando pagina 1 da categoria 'Horror'
+05/05/2025 11:57:33 - INFO - 174 - Categoria 'Horror': 17 livros coletados
+05/05/2025 11:57:33 - INFO - 219 - Categoria 'Horror' concluida: 17 livros
+05/05/2025 11:57:35 - INFO - 226 - Progresso: 30/50 categorias processadas
+05/05/2025 11:57:35 - INFO - 212 - Processando categoria (31/50): History
+05/05/2025 11:57:35 - INFO - 96 - Acessando pagina 1 da categoria 'History'
+05/05/2025 11:57:36 - INFO - 174 - Categoria 'History': 18 livros coletados
+05/05/2025 11:57:36 - INFO - 219 - Categoria 'History' concluida: 18 livros
+05/05/2025 11:57:38 - INFO - 212 - Processando categoria (32/50): Food and Drink
+05/05/2025 11:57:38 - INFO - 96 - Acessando pagina 1 da categoria 'Food and Drink'
+05/05/2025 11:57:41 - INFO - 96 - Acessando pagina 2 da categoria 'Food and Drink'
+05/05/2025 11:57:41 - INFO - 174 - Categoria 'Food and Drink': 30 livros coletados
+05/05/2025 11:57:41 - INFO - 219 - Categoria 'Food and Drink' concluida: 30 livros
+05/05/2025 11:57:43 - INFO - 212 - Processando categoria (33/50): Christian Fiction
+05/05/2025 11:57:43 - INFO - 96 - Acessando pagina 1 da categoria 'Christian Fiction'
+05/05/2025 11:57:44 - INFO - 174 - Categoria 'Christian Fiction': 6 livros coletados
+05/05/2025 11:57:44 - INFO - 219 - Categoria 'Christian Fiction' concluida: 6 livros
+05/05/2025 11:57:46 - INFO - 212 - Processando categoria (34/50): Business
+05/05/2025 11:57:46 - INFO - 96 - Acessando pagina 1 da categoria 'Business'
+05/05/2025 11:57:47 - INFO - 174 - Categoria 'Business': 12 livros coletados
+05/05/2025 11:57:47 - INFO - 219 - Categoria 'Business' concluida: 12 livros
+05/05/2025 11:57:49 - INFO - 212 - Processando categoria (35/50): Biography
+05/05/2025 11:57:49 - INFO - 96 - Acessando pagina 1 da categoria 'Biography'
+05/05/2025 11:57:49 - INFO - 174 - Categoria 'Biography': 5 livros coletados
+05/05/2025 11:57:49 - INFO - 219 - Categoria 'Biography' concluida: 5 livros
+05/05/2025 11:57:51 - INFO - 226 - Progresso: 35/50 categorias processadas
+05/05/2025 11:57:51 - INFO - 212 - Processando categoria (36/50): Thriller
+05/05/2025 11:57:51 - INFO - 96 - Acessando pagina 1 da categoria 'Thriller'
+05/05/2025 11:57:52 - INFO - 174 - Categoria 'Thriller': 11 livros coletados
+05/05/2025 11:57:52 - INFO - 219 - Categoria 'Thriller' concluida: 11 livros
+05/05/2025 11:57:54 - INFO - 212 - Processando categoria (37/50): Contemporary
+05/05/2025 11:57:54 - INFO - 96 - Acessando pagina 1 da categoria 'Contemporary'
+05/05/2025 11:57:55 - INFO - 174 - Categoria 'Contemporary': 3 livros coletados
+05/05/2025 11:57:55 - INFO - 219 - Categoria 'Contemporary' concluida: 3 livros
+05/05/2025 11:57:57 - INFO - 212 - Processando categoria (38/50): Spirituality
+05/05/2025 11:57:57 - INFO - 96 - Acessando pagina 1 da categoria 'Spirituality'
+05/05/2025 11:57:57 - INFO - 174 - Categoria 'Spirituality': 6 livros coletados
+05/05/2025 11:57:57 - INFO - 219 - Categoria 'Spirituality' concluida: 6 livros
+05/05/2025 11:57:59 - INFO - 212 - Processando categoria (39/50): Academic
+05/05/2025 11:57:59 - INFO - 96 - Acessando pagina 1 da categoria 'Academic'
+05/05/2025 11:58:00 - INFO - 174 - Categoria 'Academic': 1 livros coletados
+05/05/2025 11:58:00 - INFO - 219 - Categoria 'Academic' concluida: 1 livros
+05/05/2025 11:58:02 - INFO - 212 - Processando categoria (40/50): Self Help
+05/05/2025 11:58:02 - INFO - 96 - Acessando pagina 1 da categoria 'Self Help'
+05/05/2025 11:58:03 - INFO - 174 - Categoria 'Self Help': 5 livros coletados
+05/05/2025 11:58:03 - INFO - 219 - Categoria 'Self Help' concluida: 5 livros
+05/05/2025 11:58:05 - INFO - 226 - Progresso: 40/50 categorias processadas
+05/05/2025 11:58:05 - INFO - 212 - Processando categoria (41/50): Historical
+05/05/2025 11:58:05 - INFO - 96 - Acessando pagina 1 da categoria 'Historical'
+05/05/2025 11:58:05 - INFO - 174 - Categoria 'Historical': 2 livros coletados
+05/05/2025 11:58:05 - INFO - 219 - Categoria 'Historical' concluida: 2 livros
+05/05/2025 11:58:07 - INFO - 212 - Processando categoria (42/50): Christian
+05/05/2025 11:58:07 - INFO - 96 - Acessando pagina 1 da categoria 'Christian'
+05/05/2025 11:58:08 - INFO - 174 - Categoria 'Christian': 3 livros coletados
+05/05/2025 11:58:08 - INFO - 219 - Categoria 'Christian' concluida: 3 livros
+05/05/2025 11:58:10 - INFO - 212 - Processando categoria (43/50): Suspense
+05/05/2025 11:58:10 - INFO - 96 - Acessando pagina 1 da categoria 'Suspense'
+05/05/2025 11:58:11 - INFO - 174 - Categoria 'Suspense': 1 livros coletados
+05/05/2025 11:58:11 - INFO - 219 - Categoria 'Suspense' concluida: 1 livros
+05/05/2025 11:58:13 - INFO - 212 - Processando categoria (44/50): Short Stories
+05/05/2025 11:58:13 - INFO - 96 - Acessando pagina 1 da categoria 'Short Stories'
+05/05/2025 11:58:13 - INFO - 174 - Categoria 'Short Stories': 1 livros coletados
+05/05/2025 11:58:13 - INFO - 219 - Categoria 'Short Stories' concluida: 1 livros
+05/05/2025 11:58:15 - INFO - 212 - Processando categoria (45/50): Novels
+05/05/2025 11:58:15 - INFO - 96 - Acessando pagina 1 da categoria 'Novels'
+05/05/2025 11:58:16 - INFO - 174 - Categoria 'Novels': 1 livros coletados
+05/05/2025 11:58:16 - INFO - 219 - Categoria 'Novels' concluida: 1 livros
+05/05/2025 11:58:18 - INFO - 226 - Progresso: 45/50 categorias processadas
+05/05/2025 11:58:18 - INFO - 212 - Processando categoria (46/50): Health
+05/05/2025 11:58:18 - INFO - 96 - Acessando pagina 1 da categoria 'Health'
+05/05/2025 11:58:18 - INFO - 174 - Categoria 'Health': 4 livros coletados
+05/05/2025 11:58:18 - INFO - 219 - Categoria 'Health' concluida: 4 livros
+05/05/2025 11:58:20 - INFO - 212 - Processando categoria (47/50): Politics
+05/05/2025 11:58:20 - INFO - 96 - Acessando pagina 1 da categoria 'Politics'
+05/05/2025 11:58:21 - INFO - 174 - Categoria 'Politics': 3 livros coletados
+05/05/2025 11:58:21 - INFO - 219 - Categoria 'Politics' concluida: 3 livros
+05/05/2025 11:58:23 - INFO - 212 - Processando categoria (48/50): Cultural
+05/05/2025 11:58:23 - INFO - 96 - Acessando pagina 1 da categoria 'Cultural'
+05/05/2025 11:58:24 - INFO - 174 - Categoria 'Cultural': 1 livros coletados
+05/05/2025 11:58:24 - INFO - 219 - Categoria 'Cultural' concluida: 1 livros
+05/05/2025 11:58:26 - INFO - 212 - Processando categoria (49/50): Erotica
+05/05/2025 11:58:26 - INFO - 96 - Acessando pagina 1 da categoria 'Erotica'
+05/05/2025 11:58:26 - INFO - 174 - Categoria 'Erotica': 1 livros coletados
+05/05/2025 11:58:26 - INFO - 219 - Categoria 'Erotica' concluida: 1 livros
+05/05/2025 11:58:28 - INFO - 212 - Processando categoria (50/50): Crime
+05/05/2025 11:58:28 - INFO - 96 - Acessando pagina 1 da categoria 'Crime'
+05/05/2025 11:58:29 - INFO - 174 - Categoria 'Crime': 1 livros coletados
+05/05/2025 11:58:29 - INFO - 219 - Categoria 'Crime' concluida: 1 livros
+05/05/2025 11:58:31 - INFO - 226 - Progresso: 50/50 categorias processadas
+05/05/2025 11:58:31 - INFO - 184 - Dados salvos em 'livros.csv'
+05/05/2025 11:58:31 - INFO - 247 - 
+=== RELATORIO POR CATEGORIA ===
+- Nonfiction               : 100 livros
+- Default                  : 100 livros
+- Sequential Art           : 75 livros
+- Add a comment            : 67 livros
+- Fiction                  : 65 livros
+- Young Adult              : 54 livros
+- Fantasy                  : 48 livros
+- Romance                  : 35 livros
+- Mystery                  : 32 livros
+- Food and Drink           : 30 livros
+- Childrens                : 29 livros
+- Historical Fiction       : 26 livros
+- Classics                 : 19 livros
+- Poetry                   : 19 livros
+- History                  : 18 livros
+- Womens Fiction           : 17 livros
+- Horror                   : 17 livros
+- Science Fiction          : 16 livros
+- Science                  : 14 livros
+- Music                    : 13 livros
+- Business                 : 12 livros
+- Travel                   : 11 livros
+- Philosophy               : 11 livros
+- Thriller                 : 11 livros
+- Humor                    : 10 livros
+- Autobiography            : 9 livros
+- Art                      : 8 livros
+- Religion                 : 7 livros
+- Psychology               : 7 livros
+- New Adult                : 6 livros
+- Christian Fiction        : 6 livros
+- Spirituality             : 6 livros
+- Sports and Games         : 5 livros
+- Biography                : 5 livros
+- Self Help                : 5 livros
+- Health                   : 4 livros
+- Contemporary             : 3 livros
+- Christian                : 3 livros
+- Politics                 : 3 livros
+- Historical               : 2 livros
+- Paranormal               : 1 livros
+- Parenting                : 1 livros
+- Adult Fiction            : 1 livros
+- Academic                 : 1 livros
+- Suspense                 : 1 livros
+- Short Stories            : 1 livros
+- Novels                   : 1 livros
+- Cultural                 : 1 livros
+- Erotica                  : 1 livros
+- Crime                    : 1 livros
+===============================
+05/05/2025 11:58:31 - INFO - 257 - 
+RELATORIO DE TEMPO:
+TOTAL: 262.00 segundos
+DOWNLOAD: 51.05s
+PARSING: 0.00s
+EXTRACAO: 210.92s
+SALVAMENTO: 0.03s
+Concluido!
+
+05/05/2025 11:58:31 - INFO - 259 - Processo concluido! Total de 938 livros coletados em 262.00 segundos
+05/05/2025 11:58:31 - INFO - 267 - Script finalizado com sucesso!
